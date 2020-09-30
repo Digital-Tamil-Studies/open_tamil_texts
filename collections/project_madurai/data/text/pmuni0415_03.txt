@@ -1,0 +1,3825 @@
+
+
+
+
+
+
+
+
+maturai mInATciyammai  piLLaittamiz- English Translation - Kausalya Hart (in tamil script, unicode format)
+
+
+
+
+
+
+
+மதுரை மீனாட்சியம்மை பிள்ளைத்தமிழ்  ஆங்கில மொழிபெயர்ப்பு: கௌசல்யா ஹார்ட்
+maturai mInATciyammai piLLaittamiz of kumarakuruparar English Translation
+by Kausalya Hart 
+In unicode/utf-8 format
+
+
+
+ Acknowledgements:
+    Our Sincere thanks go to Dr. Kausalya Hart and Prof. George Hart of  
+ the University of California, Berkeley, CA, USA  for providing an e-version of this  
+translation and permission to publish the translation as part of Project Madurai etext collections.
+
+© Project Madurai, 1998-2012.
+    Project Madurai is an open, voluntary, worldwide initiative devoted to preparation
+    of electronic texts of tamil literary works and to distribute them free on the Internet.
+    Details of Project Madurai are available at the website
+    http://www.projectmadurai.org/
+    You are welcome to freely distribute this file, provided this header page is kept intact. 
+
+
+
+maturai mInATci ammai piLLaittamiz of kumarakuruparar 
+English Translation by Kausalya Hart 
+Department of South and Southeast Asian Studies 
+University of California, Berkeley, CA, USA
+2011
+ 
+ note : The e-version of the Tamil verses of this work (in Tamil Unicode format) has been
+published earlier under PM release #43: 
+mInATciammai piLLaittamiz. 
+
+ Kumaraguruparar. 
+
+	According to scholars Kumarakuruparar  was born in the city of Shri Vangundam in the Pandyan country to Shanmuka Sikamani Kaviraayar and Shivakami Ammai in the Saiva Vellaala caste. Tradition says that he was not able to talk until 5 years old and that through the prayers of his parents and the grace of the god Murugan in Thiruchendur he began to talk and then composed Kandar Kalivenba. Tradition also says his name was given to him by Murugan himself and therefore we do not know his real name. 
+	When Thirumalai Nayakkar who ruled Madurai (1623-1659) requested him to compose poems on Meenakshi, he composed Madurai Meenakshi Ammai Tamil. The name Meenakshi Ammait Tamil may have been given to this book because Kumaraguruparar calls his goddess “Angayarkkanni,” “Angayarkkan Amudu” and the “Madurait Talaivi.” Among his books, Meenakshi Ammait Tamil is the most famous one. People praise this composition saying that Meenakshi herself came and heard when he recited it in front of Thirumalai Nayakkar.
+	The Dharmapuram Adinam mutt seems to have been established already in 16th century at the time of Thirumalai Nayakkar. Kumaraguruparar went to Dharmapuram and became the disciple of Masilamanit Tesikar, who was the fourth head of the mutt. He had been to Dharmapuram mutt many times, and now there are many mutts in Tamil Nadu under his name.
+	He went to Kasi and composed Kasikkalampakam, which praises the god Viswanathar in Kasi. The Muslim king was pleased with his his ability to speak Hindustani and, admiring his composition Sakalakalaavalli Maalai, gave him land for establishing Saiva mutts. He also build the Kedaranath Swami temple in the north. There are stories that he met Tulsidas and told him the story of Kampan’s Tamil Ramayana and thus influenced Tulsidas to write the his Ramacaritam. Kumaraguruparar does not mention name of any king or the name Meenakshi in his poems, and this makes it difficult to establish accurate dates for his life.
+
+ Kumaragurubarar's compositions: 
+Kandarkalivenbaa, Meenakshiammai Pillaittamail, Maduraik Kalambakam, Neethineri Vilakkam, Thiruvarur Naanmanimaalai, Muthukkumaraswami Pillaitamil, Chidambara Mummanikkovai, Chidambara Ceytutkovai., Pandaaramummanikkovai, Kaasikkalamakam, Sakalakalaavalli Maalai. There is some dispute among scholars as to whether he was the author of Meenakshi Ammai Irattaimanimaalai and Meenaakshi Ammai Kuram, Sivakaami Ammai Irattaimani Maalai. 
+	Kumararuguruparar’s Meenakshi Ammai Pillaittamil is the first pillaittamil (a work that treats a character as a baby) to be written on a goddess and bears a formal resemblance to Periyazhvar’s Tirumozhi.  In his poems, Kumaragurubarar does not call the  goddess Meenakshi but rather uses such Tamil names as Angayarkanni, Kayarkan Kumari, and Angayarkan Amudu. He praises her as the princess and queen of the Pandyan country and the beloved of the god Shiva. His descriptions of Madurai city delight those who read them. He praises Madurai, its flourishing fields, its plants, trees, innocent animals and birds. After reading his poem, no one can forget his descriptions of the moon, the clouds, the jackfruit trees, the lovely mother cow, the frightened monkey, the male elephant’s love for his mate, fighting in war, Indra’s generosity, Ganesha, and the loves of Murugan.  It seems he plunges into the beauty of the land as much as he plunges into the devotion of his goddess.  He does not forget the god Shiva and constantly praises him along with the goddess. The poet does not give much historical information about the Pandyan country, but he does describe how it flourishes. Reading the poem, one often feels that his love for Madurai is as much as, or even more than, his love for the goddess.
+	The name Irattai Mani Maalai is given because each poem of this work has two parts in different meters, one nericai venpaa and the other kattalaikkalitturai. Its twenty poems praise the goddess who is in Kadambavanam in Madurai and Shiva her beloved.  	Meenakshi Ammai Kuram describes the life of gypsy families, their village, their mountains, how they predict the future and includes praise of the goddess of Kudal city. 
+
+Acknowledgement 
+I could not have written this translation without the help of my husband George Hart.  I would also like to thank Gita Pai, to whom I first taught Kumaragurupar’s Meenakshi Pillai Tamil.
+
+ The Fish-Eyed Goddess of Madurai  
+Pillaittamil
+
+Praising the Gods to Protect the Fish-Eyed Goddess.
+
+1. Praising Ganesha
+
+Let us praise the god Ganesa
+whose ichor floods from his dark cheeks.
+He has a long face, wide ears, a dark trunk 
+and shining eyes like the fire at the end of the earth.
+The wind that comes from his ears
+when he fans them
+cools the fire on the earth at the time of dissolution.
+With his strong feet he plays without being tired, 
+kicking the dust on the golden Potiya hills, 
+like Iravadam, the elephant of Indra.
+Let us praise that heroic god.
+
+O goddess, 
+the god Shiva decorated with garlands, 
+who has a crescent moon on his Jata, 
+sheds grace on you. 
+You are pleased 
+and your breasts shine like the rays of the sun 
+and the cool young moon.
+
+O goddess, 
+you, the daughter of the king of Himalayas,
+are beautiful as a fragrant creeper,
+and people anoint you 
+with fragrant pastes in the temples.
+O Abhiramavalli, let us praise you 
+so that this book of Sentamil will be praised by all. 
+Chapter I. Invoking the Protection of the Gods for the Goddess
+
+2. Praising the God Vishnu
+
+O almighty Vishnu, 
+loving Tamil once you 
+walked on the fields 
+embracing beautiful Lakshmi 
+who stays on a lotus flower.
+
+As you walked, 
+honey from your cool tulasi garland 
+dripped, spread on the fields, 
+mixed with mud and made it fragrant.
+
+You, your color lovely as a cloud,
+walked folding the thousand-headed Adisesha 
+as your mat and carrying him on your shoulders.
+
+Even though your neck pained you,
+you went behind the Tamil poet Kanikkannan
+because he loves Tamil. 
+The ancient Vedas became anxious and followed you all. 
+
+O fish-eyed goddess,
+our mother, queen among women, 
+you stay with Shiva on a shining throne
+carried by the elephants of the eight directions,
+thirty-two lions that have bright white manes,
+and the sixty four ganas 
+who are all carried by Adisesha 
+who has shining diamonds on his heads.
+May the god Vishnu protect her. 
+3. Praising Shiva
+
+Shiva bent the northern mountain of high peaks
+and made it a strong bow in battle 
+when he fought with the three forts, his enemies.
+
+He made the poems of Sambandar
+float above the river Vaikai 
+when the Jains who pull out their own hair 
+competed in composing poems 
+with the child Sambandar.
+
+He ordered that devotees
+who praise him singing, “Hara! Hara!”
+reach the rich heavens of Vishnu 
+and Indra, where karpaga tree gives whatever one wants.
+
+Shiva, scholar of excellent Tamil, accepted my poor words of Tamilas the words of sweet nectar.
+
+With his ears ornamented with white conch earrings,
+he enjoyed the music of  Asuvatharan and Kambalan.
+
+His thick forest-like Jata, red as coral
+and garlanded with green arugam grass
+shines with the white crescent moon. 
+
+He composed precious divine songs 
+for Brahma who stays on a lotus, 
+helping Brahma create the Vedas.
+
+He dances in the famous silver hall of Madurai.
+Let us keep his dancing feet 
+in our hearts and worship him.
+
+Praising the Fish-eyed Goddess
+
+Her hair is fragrant with oil. 
+Her pearl-like smile shines like the rays of the moon.
+Her eyes look for an opportunity 
+to fight with Shiva.
+
+When Shiva looks at the lovely
+young round breasts of the goddess, his mind grows weak.
+
+She did the impossible 
+by drawing a picture of Shiva in her mind.
+
+Lakshmi, the beautiful goddess 
+who lives on a coral-like red lotus 
+and Saraswathi, shining like lightning, 
+who lives on a pearl-like white lotus
+worship the goddess. 
+
+She is the nectar born in the milky ocean 
+where fish leap over the pure waves.
+
+She is a parrot that prattles sweet words like a baby.
+She is as lovely as a swan.
+She is as beautiful as a female elephant that walks gently.
+
+She, the shining ornamented goddess, 
+is the precious daughter of the Pandyan king 
+who bears the world on his mountain-like shoulders.
+
+May the god Shiva protect her, 
+the emerald creeper of Madurai city
+where Tamil sweet as honey flourishes.
+4. Praising Siddhi Vinaayagar
+
+Ganesha has a long trunk
+and ichor drips from his two ears 
+like waves of an ocean.
+
+He stays in his devotees’ minds, 
+as if tied to them on a stake. 
+Let us praise his fame.
+
+O goddess, queen of Madurai,
+are you fresh nectar?
+Are you a flourishing golden creeper?
+You were born with three breasts
+in Madurai where all three parts of Tamil flourish.
+
+Let us worship Ganesha 
+to protect our fish-eyed goddess.
+ 
+5. Praising Murugan
+
+Many gods joining together, 
+using Meru mountain as a churning stick 
+churned the milky ocean 
+where the dashing waves roar loudly. 
+
+Divine Vishnu, 
+decorated with a tulasi garland, 
+sleeps on Adisesha 
+whom the gods used 
+as a rope to churn the ocean.
+
+When the poison came from the ocean,
+Shiva drank it 
+while the goddess held 
+and blocked his throat to save him 
+and so he became blue-throated,
+he who has the power to make 
+the brightness of 
+the sun and moon dark.
+
+Her fish-like eyes are long 
+and extend to her ears,
+decorated with swinging earrings 
+as if they wished to contend with them. 
+
+When Devayanai, daughter of Indrani
+and of Indra the god of gods 
+who rides on the divine elephant Iravadam,
+grew up wandering in the Karpaga forest,
+she was as beautiful as Lakshmi
+the goddess of wealth 
+born in the milky ocean.
+
+Beautiful Devayanai is the wife of Murugan.
+Yet, Murugan, Muthu Kumaran, went 
+to the cool slope of the hills 
+where millet grows
+and longed to marry Valli, 
+lovely as a peacock, 
+the daughter of a gypsy family 
+who dances the kuthu dance.
+
+Let us worship Murugan 
+to protect our fish-eyed child.
+ 
+6. Praising God Brahma
+
+The fish-eyed goddess, 
+the queen of Kudal city, 
+born with three breasts, 
+grew up sweet as nectar 
+with beautiful hair swarming with bees.
+She wished to marry Shiva, 
+majestic as a coral hill,
+surrounded by Brahma and Vishnu 
+who have the colors of golden and green hills.
+Shiva, beautiful as an emerald hill 
+stayed with the goddess 
+ever after marriage. 
+
+Vishnu sleeps on the ocean on Adisesha, 
+the snake that was used as a rope to churn 
+the ocean of milk. 
+And the nectar that emerged from it
+was drunk by the clouds 
+and the gods who were like innocent children. 
+Brahma, the child of Vishnu,
+born on a lotus that grows from the navel of Vishnu,
+created the world 
+that Adisesha carries on his head, 
+surrounded by the blue water of the ocean 
+that holds the nectar. 
+
+Let that god Brahma, the son of Vishnu 
+who helps his father, 
+protect the child fish-eyed goddess.
+
+
+
+7. Praising God of Gods Devendran
+
+O goddess, you gave the shining spear
+to Murugan who conquered 
+the deep, whirling wide dark ocean 
+and dried it up.
+With his Chendu weapon he 
+split the Meru mountain. 
+
+You raised your fish banner 
+against Chokkanadar in battle.
+You made the fragrant water of the Ganges river
+that flows on the red Jata of Shiva
+come down and flow to the fields
+so the earth would flourish.
+You, a golden creeper,
+give your divine grace to the world.
+
+Indra carrying his weapon Vajrayudam 
+in his strong hand,
+rides on his dark cloud-like elephant Iravadam.
+It has small eyes, 
+and a voice like bright thunder,
+and dripping ichor, it drinks
+abundant amounts of honey 
+that the bees with beautiful wings have left 
+after swarming around bunches of flowers in 
+the fragrant karpaga forest.
+
+O goddess, lovely as a golden creeper, 
+may that Indra, god of gods, 
+protect you.
+ 
+8. Praising the Goddess Lakshmi 
+
+The god Vishnu dark as a cloud, 
+sleeps on his snake bed, Adisesha, 
+whose body is long 
+and thousand-headed.
+
+Lakshmi, tender as a creeper
+who lives on the chest of Vishnu,
+dazzled by the brightness 
+and the roughness of 
+the shining diamonds 
+of Srivatsam, the ornament of Vishnu, 
+is frightened by them and hides in the cool shadow
+of his fertile green tulasi garland, 
+thick as a forest. 
+
+Brahma, disguised as a swan, 
+flew to the top of the sky 
+where many clouds move, 
+and, unable to find the head of Shiva, 
+became tired.
+
+But the white swan, Mandahini,
+the goddess who has a thousand faces 
+flowing with abundant waves, 
+stays on the red Jata of Shiva 
+who has a black neck.
+
+O goddess, 
+you had three breasts
+when you stood against 
+the black-necked Shiva in battle.
+May the goddess Lakshmi protect you.
+9. Praising the Goddess of Art, Saraswathi 
+
+O fish-eyed goddess, 
+you teach sweet prattling words 
+to your baby parrots.
+
+You taught the happy peacock
+how to look lovely.
+
+You taught the deer how to glance shyly.
+You taught the young royal swans
+that have crests like murukkam blossoms
+how to walk softly.
+
+You taught your female friends innocence.
+You are the generous princess of 
+the Pandyan kingdom.
+
+O goddess Saraswathi, 
+you live on a lotus blooming with long shining petals 
+dripping with honey 
+and swarming with bees that hum sweetly.
+
+O goddess of art, 
+you are lovely as a white swan 
+and you know all the poems of love 
+in sweet excellent Tamil composed by Shiva,
+and you have given that knowledge
+to all your devotees.
+
+Placing our heads 
+on your two beautiful feet
+we worship you 
+to protect the princess of Pandyan country.
+10. Praising the Goddess Durga
+
+O fish-eyed goddess,
+female elephants could not compete with your soft walk 
+and they surround you, longing to walk like you.
+
+You gave birth to the elephant god 
+whose single tusk looks like the crescent moon.
+
+Shiva ate steamed pittu 
+and did not do his assigned work 
+of carrying sand to block the flooding of the Vaikai river.
+The Pandyan king struck Shiva with a stick and hurt him. 
+But when you embraced Shiva, his body melted and he loved you.
+
+Your breasts are decorated with ornaments
+studded with precious jewels.
+You are a young female elephant
+playing in the Kadamba forests of Madurai.
+
+The goddess Durga with her trident 
+defeated the buffalo-headed Mahisasuran 
+who has dark curving horns. 
+Her small waist, like a tudi drum, is as thin as a vine.
+It grew weak, unable to bear the burden 
+of her breasts that are like strong elephants 
+with small eyes and dripping with ichor.
+
+She mounts and rides a lion that has fire-like eyes 
+and a thick mane.
+
+May the terrifying goddess Durga, who rides on the fearful lion, 
+protect the timid fish-eyed goddess.
+11. Praising the Seven Goddesses
+
+The goddess who wears the rutting elephant’s skin.
+
+The goddess who dammed the ocean 
+with stones collected by monkeys.
+
+The goddess who threw 
+a lustrous spear and
+burned up the ocean.
+
+The goddess who wears fragrant flower garlands
+in her hair.
+
+The goddess who rides on a strong lion 
+and fought with thunder.
+
+The wise goddess who knows all 
+the extensive sastras. 
+
+The goddess who took the form of a boar
+that picked up the seven worlds on its tusks
+and carried them.
+Let us worship all the seven goddesses
+that they may protect the fish-eyed goddess.
+
+The god Vishnu dances 
+on the head of Kalinga the snake, 
+joining the kudakkuthu dance 
+and the kuravai dance of the cattle women
+as the humming of bees sounds like flute music, 
+and listening to those happy songs,
+the petals of the tulasi garland of Vishnu open
+and spread fragrance everywhere.
+
+O goddess, you are lovely 
+as a young elephant 
+and are the younger sister 
+of Vishnu, the black-colored one. 
+May the seven goddesses protect 
+the goddess Gauri, the younger sister of Vishnu,
+who was raised in Madurai
+surrounded with strong forts.
+ 
+12. Praising the Pandyan Country. 
+
+The Pandyan kings defeated the Chera 
+and the Chola kings and made them retreat
+in battle and run away.
+
+Many crowned kings 
+bring tribute and wait 
+at the door of the Pandyan palace.
+
+The Pandyan kings are praised everywhere
+in the world and people proclaim,
+“These are the kings of the world,
+and they rule in all directions. 
+They are like gods.”
+
+The burning sun feels jealous 
+of the bright white moon
+because he is the ancestor 
+of the Pandyan kings.
+
+The great rivers 
+Kumari, Ponni, Vaikai and Porunai 
+flow in the Pandyan country
+more happily than the Ganges in the sky. 
+
+The gods who live on golden Meru mountain
+praise the Southern Potihai hills saying, 
+“There is nothing equal 
+to the peaks of Potihai.”
+
+Siddha Saints worship and
+praise the goddess saying, 
+
+“Even though she is the mother 
+of two young gods 
+she is still a virgin.”
+
+In the Pandyan country,
+heavenly women holding the hands 
+of beautiful earthly women
+dance the kuravai kuthu.
+
+In the Pandyan country,
+the royal swan, the vehicle of Brahma
+who lives on a lotus,
+makes friends with the swans 
+of all the seven oceans.
+
+In the Pandyan country,
+Garuda the vehicle of dark Vishnu, 
+and the peacock,
+vehicle of fair young Murugan 
+stay together in one nest and play.
+
+In the Pandyan country 
+Iravadam, the elephant of Indra 
+that fights ferociously in battles, 
+falls into the same hole 
+where the elephants 
+of the enemies of the goddess fall.
+
+In the Pandyan country,
+the two shining goddesses 
+Lakshmi and Saraswathi 
+who live on two lotuses 
+stay together on one lotus 
+that blooms on a golden pond.
+
+The Pandyan kings 
+who rule following Manu’s laws 
+flourish and live happily 
+with Shiva, their son-in-law.
+
+Under the rule of the fish-eyed goddess, 
+no one could tell 
+the gods from the people.
+No one could tell
+the golden world of the gods
+from the Pandyan country.
+
+May the thirty-three gods,
+the two Asvins,
+the eight Vasus, 
+the eleven Rudras,
+and the twelve Suns
+protect our goddess 
+born with three breasts,
+so our lovely Madurai may flourish.
+ 
+Chapter II. The Baby Goddess Crawls.
+
+13. Pandimaadevi bringing up the goddess
+
+The queen Pandimaadevi
+bathes you, puts fragrant golden powder on you 
+and decorates your forehead with sacred ash.
+
+Combing your hair she makes a bun 
+and decorates it with a garland.
+The pearl Chutti ornament 
+that she puts in your hair shines with cool light.
+
+She adorns you with shinning golden earrings 
+studded with pearls.
+
+She feeds milk lovingly to you.
+The sweet honey-like drops 
+that fall from your beautiful 
+mouth shaped like a kumudam flower 
+touch her silk sari and wet it.
+She kisses, extols and caresses you.
+
+O goddess, 
+you are as beautiful as a green parrot.
+Lift up your head and crawl 
+and grant us your grace.
+
+You are precious 
+to the Pandyan king of the southern land 
+and Shiva the king 
+of the majestic golden Himalayas.
+Lift up your head, crawl 
+and grant us your grace.
+14. The Pandyan king, the Proud Father
+
+Seeing you, 
+your beloved father’s heart brightens like the moon.
+He makes signs with his hands to call you. 
+Even before he calls you, 
+you crawl and go quickly near him.
+With your small hands, 
+you smear the kumkum paste on 
+your father’s wide chest.
+
+You babble to your mother 
+with your innocent baby talk sweet as nectar.
+Hearing your speech your mother's heart fills with joy.
+
+His arms are long and extend to his knees.
+You hold on to his strong hands 
+and climb on his mighty garlanded shoulders
+that protect lovely Tamil.
+
+Your body shines like green emerald.
+You have a lustrous coral-like red mouth,
+When you smile, your teeth are as white as the rays of the moon.
+You are lovely as a peacock.
+Lift up your head, crawl 
+and grant us your grace.
+
+You are precious 
+to the Pandyan king of the southern land
+and Shiva the king of 
+the majestic golden Himalayas.
+Lift up your head, crawl 
+and show us your grace.
+15. The Lovely House of the Goddess
+
+The walls that surround your house 
+are built with mountains as tall as the 
+eight Cakkravaala hills.
+
+Meru mountain is planted 
+as a pillar in the middle of the hall.
+
+The sky is the roof of your house.
+The sun and moon brighten 
+your abode with their light.
+
+You collect the worlds that float 
+in the deluge at the end of the world 
+and pile them as dishes.
+
+O sweet one, 
+always you cook fresh sweet nectar-like food
+in your home.
+
+Such is the small play house 
+that you have built.
+
+Shiva, like a madman, 
+dances on your porch
+and again and again destroys your house.
+
+You, a lovely young child
+do not get upset with him,
+but again again you build 
+your play houses 
+that cover all the ancient worlds 
+and play with them.
+
+Lift up your head, crawl 
+and grant us your grace.
+
+You are precious 
+to the Pandyan king of the southern land 
+and Shiva the king 
+of the majestic golden Himalayas.
+
+Lift up your head, crawl 
+and grant us your grace.
+ 
+16. The Compassion of the Goddess
+
+The bright rays from Shiva’s 
+third eye and the cool rays of 
+the young moon on his jata 
+shed bright light on the dark neck of Shiva, 
+the handsome one,
+and the compassionate glance
+of the goddess makes his heart happy
+and her devotees who worship her always
+plunge into the ocean-like joy of devotion.
+
+O goddess, 
+you are compassionate 
+to all creatures that are created
+in the beautiful wide world 
+that is a part of you 
+and you make them flourish.
+
+Your dark beautiful fish-like eyes 
+bestow grace as a flood 
+that rolls and flows 
+for your devotees.
+
+O goddess, 
+you are a lovely peacock with dark eyes.
+Lift up your head, crawl 
+and grant us your grace.
+
+You are precious 
+to the Pandyan king of southern land 
+and Shiva the king of the majestic golden Himalayas.
+Lift up your head, crawl 
+and grant us your grace.
+17. The Three Goddesses and Lovely Madurai 
+
+O goddess Karpuravalli, 
+you stay in the shining palace 
+that is more excellent than
+the lotus seat of Lakshmi
+that drips sweet honey 
+like a flooding river 
+and swarms with six legged bees 
+that do not stop humming, 
+
+more excellent than
+the lotus seat of Saraswathi 
+who has a bright tongue 
+that in its wisdom gave all the ancient
+wonderful Vedas, 
+
+and more excellent than 
+Shiva’s dark Himalaya 
+where peacocks
+lovely as emeralds 
+wander looking for rain
+from the clouds
+without blinking their eyes.
+
+The white waterfalls descend
+from the sky,
+their water sweet as nectar, 
+and they pass through 
+the rabbit on the moon
+that shines always in the heavens.
+
+
+
+The baby vaalai fish 
+with their broad bellies 
+are afraid of the swift water
+of the waterfalls 
+and leap everywhere
+dashing into the lotus buds,
+so they open
+and the clear honey
+from those fragrant blossoms
+flows like a waterfall.
+
+Such is the beauty of Madurai. 
+
+O goddess Maragadavalli, 
+you are the queen of that lovely Madurai.
+Lift up your head, crawl 
+and grant us your grace.
+
+You are precious 
+to the Pandyan king of the southern land
+and Shiva the king of 
+the majestic golden Himalayas.
+Lift up your head, crawl 
+and grant us your grace.
+ 
+18. The Dancing Goddess
+
+O goddess,
+as you crawl
+the smile on your pretty face
+dances like the shining moon.
+
+As you crawl 
+the dark bun on your hair
+dances with its ornaments.
+
+As you crawl 
+your bent eyebrows 
+dance like curving creepers.
+
+As you crawl 
+the golden cutti ornament
+that hangs over your forehead
+dances.
+
+As you crawl,
+your fish-like eyes contending with one another
+extend to your ears 
+and the makara ornaments
+that hang on your ears 
+dance together.
+
+As you crawl, 
+the anklets on your feet dance.
+The bells on your anklets 
+dance, singing, “kinkini, kinkini.”
+
+As you crawl, 
+your waist thin as a creeper dances with your dress. 
+
+As you crawl, 
+your belly broad as a banian leaf 
+moves and dances.
+Your navel that is hidden 
+in your belly shines and dances .
+
+O mother of all worlds,
+as you crawl, 
+all the moving 
+and unmoving creatures 
+of all the worlds dance.
+
+Lift up your head, crawl 
+and grant us your grace.
+
+You are crowned 
+to make this world flourish.
+Lift up your head, crawl 
+and grant us your grace.
+ 
+19. The Dancing Goddess
+
+As you crawl, 
+the three round breasts that dance 
+on your beautiful chest 
+show that you were not born with two breasts. 
+
+You crawl and smile looking 
+at the ignorance of those
+who calls you saying, “O mother, come!”
+
+Your green body became pale
+because you gave birth to all the creatures
+of the flourishing world.
+
+As you crawl, 
+your thin green creeper-like waist becomes more thin 
+and your belly bends and dances. 
+
+As you crawl, 
+the bells of your mekalai ornament dance 
+singing the praise of their beloved god 
+and your small waist joins them and dances.
+
+As you crawl, 
+you are like a green fragrant creeper 
+dripping honey from its flowers 
+and dancing in the wind.
+Lift up your head, crawl sweetly 
+and grant us your grace.
+
+You are crowned to make this world flourish .
+Lift up your head, crawl 
+and grant us your grace.
+20. The Dance of the Fish-eyed Goddess 
+
+As you crawl, 
+the bun tied up on the top of your head
+dances spreading fragrance.
+
+As you crawl,
+the shining golden ornament on your forehead 
+and the small cutti ornament on your hair 
+shine like the sun and the white moon and dance.
+
+As you crawl, 
+the small drops of sweat on your divine forehead dance.
+
+As you crawl, 
+your divine fragrant body spreads
+emerald-like light in all eight directions and dances.
+
+As you crawl, 
+the karuvilai flowers on your ears spread fragrance 
+and the kudambai ornaments 
+on your ears swing with joy and dance.
+
+As you crawl,
+you smile with your shining teeth, 
+your divine face blooms like a lotus, 
+and your compassionate eyes pour
+grace on your devotees.
+Lift up your head, crawl 
+and grant us your grace.
+
+You are crowned to make this world flourish.
+Lift up your head, crawl 
+and grant us your grace.
+21. Praising the Fish-eyed Goddess 
+
+O goddess, 
+you are a majestic mountain 
+where the sun shines brightly 
+and an emerald-green shadow spreads.
+
+O goddess
+you are a lovely creeper, 
+the sister of Vishnu
+who is dark as a cloud 
+and plays his flute.
+
+O goddess
+you are an unrivaled remedy
+given by the Himalayas 
+to cure the sorrow 
+of your devotees.
+
+O goddess
+you know all the divine Vedas
+beyond the understanding 
+of even the gods
+who live in heaven 
+where arisandanam trees grow.
+
+O goddess, 
+you are like fresh sweet sugarcane 
+and the eyes on your red lotus face 
+that are like kayal fish 
+give abundant grace 
+to your devotees.
+
+
+O goddess,
+you are a young innocent calf 
+and a young moon that was raised 
+in the Pandyan royal line 
+of the bright white moon. 
+
+You are yourself 
+Lakshmi, the goddess of prosperity,
+Saraswathi, the goddess of knowledge, 
+the princess of the Himalayas,
+and the queen of Madurai.
+
+Lift up your head, crawl 
+and grant us your grace.
+
+You are a young peacock, 
+raised in Madurai
+where pure Tamil flourishes.
+
+Lift up your head, crawl 
+and grant us your grace.
+ 
+22. The Fish-eyed Goddess 
+
+O goddess, 
+you are the beautiful sister of Vishnu 
+who, dark as thick cloud, 
+carries a conch in his strong hand.
+
+You share a half part of Shiva 
+and you are a thin, beautiful green creeper 
+that flourishes on the golden Kailasa hills.
+
+You are our mother!
+You give boons, protection 
+and help to your devotees 
+who worship you 
+everywhere in the beautiful wide world,
+saying, “Don’t be afraid.”
+
+Your eyes are as lovely as the fish
+that is on the banner of Kama
+who shoots his arrows
+as he wanders all night
+that is dark as a rutting elephant.
+
+You are a shinning golden creeper, 
+lustrous as lighting.
+Lift up your head, crawl 
+and grant us your grace.
+
+You are a young peacock, raised in Madurai
+where pure Tamil flourishes.
+Lift up your head, crawl 
+and grant us your grace.
+ 
+Chapter III. Lullabies for the Baby Goddess
+
+23. The Mother buffalo and the Playful Swan
+of Lovely Madurai
+
+As the soft breeze blows gently 
+mixed with the sweetness of Tamil 
+nurtured by the Pandyan king, in the southern land, 
+a young buffalo sleeps 
+in the shadow of a sweet Mango tree
+with tender red shoots.
+Its eyes are red and its mouth is long. 
+Loving the calf that she just gave birth to 
+and knowing that it does not yet know how to eat grass, 
+she sheds milk from her udder that flows abundantly
+like a white waterfall.
+
+The blooming fresh golden lotuses with fragrant petals
+sprinkle their golden pollen 
+on the swans that have shining crests 
+and swim in the sweet water of a pond.
+
+The rays of the moon brighten 
+the rolling waves of the pond,
+and their brilliance falls on the swans’ legs, 
+making them shine like gold. 
+
+You are the queen of beautiful Tamil Madurai,
+taalo taalelo.
+
+You are the gracious fish-eyed goddess
+sweet as nectar.
+Show your grace to your devotees, 
+taalo taalelo.
+24. Farm Girls Cooking Pearl Rice in Tamil Madurai 
+
+The dark beautiful girls of Madurai 
+who work in the fields 
+wear kalaapam ornaments 
+tied to their saris that flow like the tails of peacocks.
+
+Building sand houses to play with,
+the lovely farm girls pretend to enter there to live.
+
+They pretend to start a shining fire
+on the stove that is decorated
+with bright red rubies that take away the darkness.
+
+Piling up precious corals for wood,
+they pretend to start red fire in their hot stoves.
+
+Pouring clear sweet honey instead of water 
+in a round pot, they pretend to boil it.
+Rinsing pearls in sweet liquor, they use them as rice. 
+
+After cooking the rice,
+the lovely farm girls pour the water from it,
+sit together and pretend to eat. 
+
+Such is the beauty of Madurai city 
+surrounded with abundant cool farms 
+where the lovely group of farm girls make their play rice. 
+
+You are the queen of Madurai 
+flourishing with green farms, taalo taalelo.
+
+You are the gracious fish-eyed goddess sweet as nectar.
+Show your grace to your devotees,  taalo taalelo.
+25. The Clouds and the Fish of Tamil Madurai
+
+An angry vaalai fish 
+leaps up to the sky, 
+where the clouds move 
+like strings of garlands
+and float, distended like the bellies of pregnant women
+after filling themselves 
+with the salty water of the ocean. 
+
+Leaping above the karpaga forest 
+that blooms with flowers,
+swimming over the clear waving water
+and the long banks of the Ganges,
+touching the rabbit in the bright white moon 
+that drips with nectar,
+kicking and pushing away
+the clusters of shining stars
+that spread everywhere, 
+opening the clouds 
+to pour their rain on the earth,
+the vaalai fish descends 
+stirring the water of the ocean
+and plays with an angry suraa fish 
+in the fertile fields of Madurai.
+
+You are the queen of Tamil Madurai
+flourishing with rich fields, 
+taalo taalelo.
+
+You are the gracious fish-eyed goddess
+sweet as nectar.
+Show your grace to your devotees, 
+taalo taalelo.
+26. The Streets of Madurai 
+
+The elephants’ ichor that drips from their cheeks, 
+the pollen that falls from the flowers
+that decorate the hair of beautiful women, 
+and the kumkum paste 
+that they have smeared on their bodies 
+all fall on the streets, covering them 
+so the elephants slip and cannot walk.
+Such are the lovely large streets of Madurai.
+
+The powerful royal chariots of the kings 
+stop and move away
+from the little play chariots pulled by the children 
+whose hair is decorated with flowers. 
+
+Red-eyed young men, strong as bulls, 
+carry spears, 
+and their horses gallop so swiftly 
+that their saliva drips down
+and makes puddles on the street
+that ripple, foam and bubble
+flowing like a great river. 
+Such are the streets of Tamil Madurai.
+
+You are the the queen of Madurai city
+flourishing with rich fields,
+taalo taalelo.
+
+You are the gracious fish-eyed goddess
+sweet as nectar. 
+Show your grace to your devotees, 
+taalo taalelo.
+ 
+27. The Frightened Clouds
+
+Humming bees, sleep inside the flowers 
+on the ornamented hair 
+of lithe women on the fields 
+who are as lovely as blooming creepers 
+and have mountain-like breasts that strain their waists.
+The bees wake up, visit the flowers
+of the tall trees of groves that touch the sky,
+making their pollen fall and fill up the heavenly Ganges.
+
+The dark clouds are frightened 
+by the noise of the monkeys of the groves
+as they shout and leap.
+They jump over the rabbit on the moon, descend,
+and come to rest over the haystacks 
+piled high as hills on the paddy fields.
+
+The Mallars drink palm wine, and, intoxicated,
+mistake the dark clouds for female buffaloes.
+They yoke the clouds to male buffaloes 
+that fight with their horns
+and then they plow the land,
+and the frightened clouds 
+roar loud and thunder over the fields. 
+
+Such is Tamil Madurai city abundant with its rich paddy fields.
+You, the queen of Madurai,
+taalo taalelo.
+
+You are the gracious fish-eyed goddess
+sweet as nectar. 
+Show your grace to your devotees, 
+taalo taalelo.
+28. The Fish and Kanikaiyar of Madurai city
+
+The fish frolic and swim in water 
+the dark clouds have poured down.
+They swim through the swirling whirlpools, 
+through the small puddles that the rain has filled, 
+and leap over the banks, 
+through the waves that break on the shores,
+through the screwpine bushes that bloom,
+through the mud on the bank,
+over the stacks of paddy,
+over the muddy clay on the banks of the fields,
+and through the abundant water of the ponds.
+Such are the flourishing fields of Madurai.
+
+The Kanikaiyar of Madurai city, 
+their curly hair decorated with beautiful flowers, 
+their fish-like eyes so long they extend to their earrings, 
+stare at the chest of the young heroes 
+who ride on chariots, 
+ornamented with shining jewels,
+and their heroic bows tied with ropes,
+on their round hill-like arms. 
+Those lovely women embrace them tightly 
+as the petals of their garlands fall 
+and so avoid quarreling with them. 
+
+Such is the beauty of Madurai city.
+You are the queen of rich Madurai, 
+taalo taalelo.
+
+You, a golden creeper, rule in Madurai 
+where the Tamil Sangam flourishes,
+taalo taalelo.
+29. The War of the Goddess
+
+The commanders of the army of the goddess,
+fighting with the chiefs of their enemies
+from every direction
+break their bows, 
+destroy their chariots and banners 
+and shoot unceasing arrows like pouring rain. 
+
+The headless bodies of warriors 
+dance with their dead friends 
+holding hands in the 
+ocean of blood flooding the battlefield.
+
+Your armies are like a mighty ocean
+and fights with its enemies unceasingly
+like the waves that roll over the ocean.
+They fight ferociously with their elephants and horses
+hurling them onto the battlefield 
+as if someone were playing 
+ammaanai balls with elephants and horses. 
+
+O Divine goddess lovely as Lakshmi, 
+you shine victoriously 
+with your ocean army.
+
+You are the queen of rich Madurai, 
+taalo taalelo.
+
+You, a golden creeper,
+rule in Madurai 
+where the Tamil Sangam flourishes,
+taalo taalelo.
+ 
+30. The war of Skanda with Indra, the king of the Gods
+
+Indra, the king of the gods, 
+who cut off the wings of the shining clouds, 
+carries his diamond-hard weapon,
+and rides on his white elephant Iravadam
+that trumpets like thunder and fights ferociously.
+He was defeated by Murugan,
+the son of Shiva, 
+who hurled his spear, burning up the ocean, 
+threw his Chendu weapon, splitting the mountain
+that has high golden peaks,
+and flung his valai weapon, 
+destroying Indra’s crown.
+
+When they saw that Indra and his commanders
+who fought on every side 
+had lost and retreated,
+and that his garlanded crown
+and garland of karpaga flowers swarming with bees
+were destroyed,
+the gods who were enemies of Indra rejoiced. 
+
+O goddess, lovely as a peacock,
+you bore that divine warrior as your son
+who defeated Indra, 
+Meru mountain and the ocean,
+taalo taalelo.
+
+You, a golden creeper,
+rule in Madurai 
+where the Tamil Sangam flourishes,
+taalo taalelo.
+ 
+31. The Excellence of the Goddess’s Rule 
+
+O goddess, under your supreme rule,
+
+the precious Tamil books 
+composed by ancient scholars
+will never be destroyed. 
+
+The earth created by Brahma 
+who is seated on a lotus
+will never turn upside down 
+but be stable.
+
+The enemy named poverty
+will not rule the flourishing Tamil country.
+
+All creatures that live in the world 
+will never plunge into the ocean of sins.
+
+Justice under your royal rule 
+will only save the people, 
+and never ruin them.
+
+Even the ignorant will never say, 
+“The Pandyan kings are equal to the Cholas.”
+
+O goddess, 
+you are a blooming creeper and 
+you flourish in Madurai city,
+taalo taalelo.
+
+You are a lovely parrot raised by 
+Malayadvajan, the Pandyan king,
+taalo taalelo.
+32. The Battle of the Goddess with Shiva and his Escort
+
+You are a small girl 
+with dark fragrant hair.
+
+Angry, you decided to besiege
+the walls of the Himalayas, 
+the abode of Shiva, the pure one,
+and oppose him.
+
+Nandi and other attendants of Shiva,
+thinking in their pride 
+that they are equal to you in battle and could defeat you,
+fought against you, were vanquished 
+and lost their strength, and their bull banners fell.
+
+You did not lose the battle 
+like Kama, the clever one,
+who rode on his wind-chariot 
+when he raised his shark banner 
+and opposed Shiva in the tall Pothiya hills.
+
+You, a golden creeper,
+raising your fish banner
+won the battle with Shiva,
+taalo taaleloo
+
+You are a lovely parrot raised by 
+Malayadvajan, the Pandyan king,
+taalo taalelo.
+ 
+Chapter IV.  The Baby Goddess Claps her Hands
+
+33. The Dance of Shiva
+
+At the dark night at the end of the earth,
+eight-eyed Brahma 
+who stays on his lotus flower, soft as a curving bed
+and Vishnu who stays on his snake bed in Vaikundam,
+the highest heaven, are asleep.
+
+In the middle of that night, Shiva dances madly 
+wearing umattai flowers that drip with honey.
+
+As he dances 
+the sky, the earth 
+and the eight mountains
+turn over and fall into the seven oceans.
+
+As he dances, 
+all the ancient universes,
+and Kailasa, king of mountains,
+and the Chakravaala hills 
+all dance and whirl with him.
+
+And you clap your hands 
+and beat the cymbals 
+to accompany the beats of his pure,
+ever-present dancing, 
+
+You, a beautiful creeper,
+born and raised with Tamil in ancient Madurai,
+clap your hands and
+grant us your grace.
+
+34. The Goddess Falls in Love with Shiva on the Battlefield
+
+O goddess,
+you rode on your shining chariot 
+decorated with a golden lotus ornament,
+and opposed Shiva who carries 
+golden Meru mountain for his bow.
+
+Your thin waist that could not be seen 
+shrank as you fought,
+and your mind fell in love with him 
+and he entered into your heart.
+
+When you saw Shiva on the battlefield, 
+your third curving breast disappeared.
+You bowed to him shyly and were amazed to see
+that suddenly you had only two breasts.
+
+Your heart was filled only with him.
+You looked at him sweetly 
+with a nectar-like side glance, and felt shy. 
+
+You sighed, and small drops covered 
+your sweating forehead.
+You looked like a painting
+that suddenly came alive joyfully.
+
+In your shyness, you kept feeling
+the sharp corners of your bow with your fingers. 
+Clap your beautiful hands, and grant us your grace.
+
+You, a beautiful creeper, born and raised with Tamil 
+in ancient Madurai,
+clap your hands and grant us your grace.
+35. The Goddess Playing with her Friends 
+
+You play with your friends
+picking up tender leaves and flowers 
+in the garden blooming with fragrant buds.
+
+You join your friends
+and pour sand in the pots
+and play as if you were making rice.
+
+You raise lovely baby peacocks, 
+young, soft beautiful swans, white doves and other birds.
+
+As you and your friends play 
+you hide your dark eyes on your face 
+with your red hands 
+and it is as if a kaandal flower
+made a lily blossom close
+as it flowered in front of a lotus. 
+
+You carry and kiss your lovely divine parrot 
+whose words are sweet as honey. 
+
+You play with round golden balls.
+Your hands soft as tender shoots 
+have a lovely red color
+and are bright as divine lotuses
+opening their flowers. 
+Clap your beautiful hands, and grant us your grace.
+
+You, a beautiful creeper, born 
+and raised with Tamil in ancient Madurai, 
+clap your hands and grant us your grace.
+ 
+36. The Bed and Cradle of the Goddess
+
+Your cradle is like Indra’s chariot
+that brightens the sky.
+
+Your cradle is like a divine place that gives peace 
+in the highest sky. 
+
+Your cradle is like a forest filled with kadamba trees.
+
+Your cradle is like 
+the Tamil country filled with cool paddy fields.
+
+Your cradle is like the lustrous six-legged seat 
+of handsome Shiva 
+who gives grace to all with his third eye.
+
+Your cradle is like
+the beautiful bed in the inner sanctum of Shiva.
+
+As you lie on that beautiful cradle, 
+you babble words sweet as music.
+You suck your fingers 
+tasting and drinking the honey-like water 
+from your mouth that is as lovely 
+as a kumudam flower. 
+Your lotus-like fingers become red, 
+as you suck them in your mouth.
+Clap your beautiful hands and grant us your grace.
+
+You, a beautiful creeper, born and raised with Tamil 
+in ancient Madurai,
+clap your hands and grant us your grace.
+ 
+37. The Goddess Raises her Beloved Son Murugan
+
+O goddess, 
+your grace is like a flood of nectar, 
+thrown off by the clear waves of the dark ocean
+as if suddenly it were let loose.
+It streams from your fish-like shining eyes
+to your divine child Murugan 
+who burned up the ocean with its white waves.
+
+O queen of Madurai,
+you carry your divine child Murugan 
+on your beautiful swinging thighs and bathe him.
+
+You put oil on his hair,
+and decorate his forehead with sacred ash.
+You put conch bracelets on his arms.
+
+You take milk from your breast in a conch
+and feed him opening his petal-like soft lips.
+
+You put fragrant powder on his body.
+You make him sleep on your beautiful lap precious as gold. 
+
+You put him in a small cradle 
+studded with large bright diamonds 
+and sing him lullabies.
+
+Clap your blooming lotus-like hands,
+and rock the cradle, and grant us your grace.
+
+You, a beautiful creeper,
+born and raised with Tamil in ancient Madurai,
+clap your hands and grant us your grace.
+38. Peys in the Battle 
+
+Kings, warriors of the earth, 
+heroes with swords and valiant men fought 
+in a battle in the city of Parandalai
+and the thunder-like sound of the war 
+reached the clusters of stars and shook them.
+
+When the warriors who died in the battle went to heaven,
+they fell in love with heavenly women, 
+ornamented with golden bangles 
+with mountain-like breasts, 
+and eyes like arrows
+that struck them like weapons in war.
+
+The peys on the battle field 
+ate the tasty intestines, the brains and the fresh meat 
+of the defeated gods and the warriors
+and the circling vultures in the sky 
+came down and ate the fresh meat with them.
+
+A group of peys holding on to each other’s hands
+danced the kuravai dance.
+
+O goddess, 
+you bent your bow 
+and almost silently you sent your long arrows 
+to vanquish the chieftains 
+of all directions, making them ashamed.
+Clap your hands and grant us your grace.
+
+You make the earth goddess thrive and protect her 
+under the shadow of your canopy, 
+Clap your hands and grant us your grace.
+39. The War of the Goddess and her Protection 
+
+After the Pandyan and the Chola kings 
+retreated as they fought with you,
+they joined you and fought 
+with the gods, who were your enemies. 
+
+Indra’s white elephant Iravadam,
+and Yama’s vehicle the dark buffalo 
+were frightened of you and hid in the wild ocean.
+
+Varuna, the rain god rode on his sura fish 
+to fight with you, but the sura fish leaped, 
+spun and fell unable to fight with you.
+
+You made kings who ruled cruelly
+embrace justice.
+
+You fought with the Himalayas and the eight high hills 
+and made them the boundary of your country.
+
+By yourself you took over, 
+ruled and protected all the lands in the eight directions.
+
+Conquering all the lands 
+you rule all the northern shores 
+as easily as you rule the shores 
+of the Kumari river in the south.
+
+You who are beautiful as a female elephant,
+clap your hands.
+You make the earth goddess thrive 
+and protect her under the shadow of your canopy, 
+Clap your hands and grant us your grace.
+40. The Battle between the Goddess and Shiva 
+
+The fish-eyed goddess shot her arrows 
+at kulis, kaalis, dogs, lions
+and Bhairavar and they were defeated 
+and scattered. 
+
+Nandi, the vehicle of Shiva fought 
+with the goddess, lost and ran away.
+Seeing how splendid Nandi was 
+both from front and back,
+the goddess laughed in delight,
+her smile like the rays of the moon.
+
+She forgot how she once danced with Shiva
+on the highest peaks of Kailasa 
+and grew shy because she fought with him.
+
+She stopped shooting arrows, 
+but bent her bow-like eyebrows 
+and shot glances with her lotus-like eyes at Shiva.
+
+O goddess Thadaadagai, 
+you have attracted Shiva 
+who bent Meru mountain as his bow in battle.
+
+O goddess Tadaathagai, 
+clap your hands.
+
+You make the earth goddess thrive 
+and protect her 
+under the shadow of your canopy, 
+Clap your hands
+and grant us your grace.
+41. The Beauty of the Goddess and the Himalayas 
+
+You give your grace to your devotees
+so that they can cross the ocean of births 
+if they melt in their hearts
+for your gracious glance
+that pours out its abundant compassion.
+
+O fish-eyed goddess,
+you are as beautiful as a doll 
+and your long eyes 
+lovelier than the eyes of a deer
+are like killing arrows
+and, extending to your earrings,
+they give extra loveliness to your nose. 
+
+You are a peacock 
+born in the Himalaya hills
+where a male monkey that lives
+in a flourishing bamboo grove 
+jumps up to the dark clouds in the sky,
+and the nectar that flows 
+from the young creeping moon
+mixes with the rain 
+that the clouds pour on the hills.
+Clap your hands.
+
+You are a young elephant 
+raised in Madurai,
+clap your hands.
+ 
+42. Goddess, the Mother
+
+You showered your grace and fed
+the nectar-like milk from your breasts
+to Sambandar your devotee 
+in the city of Seerkaazhi,
+and you gave him the power of singing 
+the Devaram, devotional Tamil songs 
+that are divine Vedas.
+
+As a compassionate mother
+you raised your son Murugan
+who rides on a peacock
+and Ganesa, the elephant-headed god.
+
+Your prattling baby words 
+are sweet as honey 
+and are like the music of a flute. 
+Your baby talk is as sweet as ripen fruits
+that shed nectar.
+
+Your words are lovely as a parrot’s. 
+Clap your hands.
+
+You are a young elephant 
+raised in Madurai, 
+clap your hands.
+ 
+Chapter V. Grant us Moksha
+
+43. The Greatness of the Goddess 
+
+You are like a divine jewel 
+for the scholars who composed 
+the treasure of ancient timeless songs 
+that are so lovely 
+no one could have even dreamed of their beauty. 
+
+You are a blooming karpaga tree 
+that gives the fruit of grace
+to the devotees who love you in their hearts 
+and who nurture the feeling of devotion
+as if they were watering a tiny banyan tree.
+
+You are a parrot in the grove
+that prattles like a baby, 
+and your words were never written down. 
+
+You are the matchless companion
+of Shiva the highest god, 
+the highest form of all sounds, 
+who pervades the empty sky 
+as the companion of all lives, 
+unseen but helping all devotees and creatures.
+
+You are the omnipresent one
+who originated with Shiva.
+Grant us moksha.
+
+O goddess, born with three breasts,
+you are a feast for the three-eyed god,
+the light of all. Grant us moksha.
+44. The Beautiful Goddess 
+
+You are the highest flood of joy
+that springs abundantly in the hearts of your devotees
+who melt in everlasting love for you, 
+love that they had even in their previous births
+as their hearts filled with devotion
+like ponds being filled with water.
+
+You are great good fortune
+for those like us who are small.
+
+You are like a sweet young female elephant 
+and your fragrant hair is decorated 
+with blossoms, dripping with honey.
+
+You are a creeper blooming 
+with lovely flowers 
+and your heavy mountain-like round breasts
+decorated with kumkum paste
+make your thin waist weak.
+
+Your prattling words
+are as sweet as the music of a flute.
+
+Your lotus-like red mouth is as sweet as a fruit.
+Grant us Moksha.
+
+O goddess, born with three breasts,
+You are a feast for the three-eyed god,
+the light of all.
+Grant us moksha.
+ 
+45. The Beauty of the Goddess 
+
+Dark clouds lose when they compete 
+with your dark hair decorated with flowers 
+swarming with bees. 
+
+Sugarcane cut into small pieces
+loses when it competes with your
+prattling speech as sweet as the words of a parrot.
+
+The red lotuses lose when they compete 
+with your small golden feet
+that touch the crescent moon on Shiva’s jata,
+
+The conch pregnant with pearls
+and the beautiful fertile kamuku plant
+lose when they compete with your neck.
+
+Long bamboo shoots lose when they compete 
+with your beautiful arms decorated with lovely drawings.
+
+The two strong tusks of elephants lose when they compete 
+with your round soft breasts.
+
+The pearls that are born in shells cannot compete 
+with your divine teeth.
+
+You give your devotees 
+the pleasures of life on the earth and in heaven.
+Grant us moksha.
+
+O goddess, born with three breasts,
+you are a feast for the three-eyed god,
+the light of all. Grant us moksha.
+46. We Want Only You
+
+O goddess, we do not want 
+the cindamani jewel 
+that is in the world of Indra, 
+the king of gods in the shining sky 
+who rides on his rutting elephant Iravadam 
+that has four mountain-like tusks.
+
+O goddess, we do not want 
+the precious jewels sanganithi 
+and padumanithi of Kubera 
+the king of Alagapuri in the north. 
+
+O goddess, we do not want
+the Srivatsam jewel that shines like the sun,
+decorating the chest 
+of the lord Padmanabhan
+who lies on a snake bed 
+with his wife Lakshmi on a lotus blossom,
+the light of all homes.
+
+Shiva who stays in the temple 
+in the city of Thirunelveli
+surrounded by bamboo trees
+loves to kiss your sweet fruit-like mouth.
+
+O goddess, born with three breasts,
+you are a feast for the three-eyed god,
+the light of all.
+Grant us moksha.
+ 
+47. Pearls
+
+The pearls that grow 
+by the shores of the Kumari river
+where waves dash on the hills 
+and the banks of the river,
+
+and the pearls from the shells 
+that the hard-working pearl-fishers, 
+bring to the shores of the Korkai city,
+
+and the pearl-like rays 
+of the white moon that fall 
+on the Porunai river,
+
+and the cool pearls 
+brought by the waterfalls 
+that fall on the beautiful cool
+slopes of the Potiyam hills—
+
+O goddess, you gather all these pearls 
+on the bank of the river, 
+bathe and play with innocent women 
+as your waist, thin as creeper, suffers.
+
+The fragrant smoke 
+that perfumes your long oiled hair
+spreads its fragrance 
+all around the sand bank of the river
+where women play.
+Grant us moksha.
+
+You are the feast for the three-eyed god,
+the light for all. Grant us moksha.
+48. The Divine Kudal City 
+
+The shining sun god carrying his cloud-flag, 
+rides on a decorated chariot
+yoked to strong white-maned horses.
+He splits the water of the sea,
+with his bright rays, 
+removes the thick darkness of the earth 
+and brightens the front of the houses 
+of Kudal city where Tamil flourishes. 
+
+There, the white saris that hang on the clotheslines 
+in the yards of the houses 
+fly to the sky in the wind, 
+touch the stars and hide the rays 
+of the moon and the lovely rainbow. 
+
+Divine Madurai city 
+is surrounded with forts 
+where your victorious flags fly.
+Covered with clouds they fly shining
+as they do on Mount Meru
+that you have conquered.
+Such is divine Tamil city of Kudal 
+and you flourish there, bringing prosperity.
+
+O goddess, 
+your divine mouth is as lovely as coral. 
+Grant us moksha.
+
+You, a beautiful creeper,
+carry a shinning fish-banner in your right hand.
+O goddess, your divine mouth is as lovely as coral. 
+Grant us moksha.
+
+49. The Fields of Madurai City
+
+The Kadainyar who have bodies
+as dark as clouds that pour rain
+drink palm wine that foams up
+like the waves of the ocean
+and carry in their hands swords
+that look like the crescent moon.
+
+The soft natured Kadaisiyar women 
+beautiful as bright lightning,
+wearing dark bangles, 
+walk behind their husbands 
+as their thin waists swing.
+
+The varaal fish leaping to the sky
+scares a cluster of stars and 
+the Kadaisiyar women seeing the fish, 
+are frightened and run away.
+
+The sugarcane plants in the fields of Kudal 
+grow tall and touch the sky 
+reaching Indra's world, 
+and Indra’s divine elephant Iravadam
+who lives in the karpaga forest 
+eats the sweet sugarcane there. 
+
+The flourishing paddy stalks 
+in the fields of Kudal grow so tall
+they touch the sky
+and Kamadenu, Indra’s cow, grazes on them.
+
+
+Such is the wealth of Madurai 
+filled with flourishing paddy fields 
+and sugarcane plants.
+
+O goddess, 
+your divine mouth is as lovely as coral.
+You protect Madurai city.
+Grant us Moksha.
+
+You, a beautiful creeper,
+carry a shinning fish-banner
+in your right hand.
+
+Your divine mouth is as lovely as coral.
+Grant us moksha.
+ 
+50. The Flag and the Wheel of the Goddess.
+
+O goddess, 
+your front yard is filled
+with a pile of gold given as tribute
+by enemy kings of many countries 
+after they retreated fighting with your army
+that blows its conches of victory 
+as loud as the waves of the ocean.
+
+The garlands of enemy kings from many directions 
+fall on the floor and mingle with each other.
+
+The fish-banner of the mischievous Kama 
+who wanders around with his terrible flower arrows 
+swarming with bees, 
+and your victorious fish-banner
+fly together in the silver hills of Kailasa. 
+
+As your majestic rule spreads 
+over all the lands that are surrounded
+by the rising, sounding oceans, 
+it is like the wheels of the chariot of the sun
+going over mountains and oceans.
+
+O princess of the Pandyan king, 
+your scepter takes away the suffering of all lands.
+
+O goddess, 
+your divine mouth is as lovely as coral. Grant us moksha.
+You, a beautiful creeper,
+carry a shinning fish-banner in your right hand.
+Grant us moksha.
+ 
+51. The Trees and Drums of Madurai 
+
+When a jack fruit that has grown
+on the large trunk of a jack tree
+breaks, its juice as sweet as honey 
+flows onto the earth 
+as if a pot filled with palm wine had been broken.
+O goddess, your Madurai city 
+is filled with such fertile jack fruit trees.
+
+The lovely branches of the kamugu tree 
+shake and fall to the ground 
+when the sura fish leaps and hits it
+from the fields where the paddy plants
+are heavy with paddy.
+
+The rutting elephant trumpets loudly
+drinking from a pond
+where the water is filled to the brim
+as if it were an ocean. 
+
+The beating of the three drums
+in Madurai protected by you 
+sound twice as loud
+as the thundering of the clouds. 
+
+Such is flourishing Madurai.
+You protect it.
+You, a lovely parrot raised in Madurai,
+grant us moksha.
+
+You are the precious jewel of the Pandyan dynasty 
+that rules the entire world. 
+Grant us moksha.
+52. Praise of the Goddess
+
+In the world surrounded by ocean, 
+where the sun rises
+and removes deep darkness 
+and spreads his rays everywhere,
+
+you, lovely as a young elephant,
+grant your aid with your kind glances
+to the goddess Lakshmi who lives on a red lotus 
+thick with petals and swarming with bees,
+and to the goddess Saraswathi
+who stays on a white lotus
+blooming with a hundred petals, 
+so that they help your good devotees 
+who worship you and serve only you.
+
+O goddess, 
+your face is beautiful like a lotus, 
+your neck shines like a conch,
+your face is cool as the crescent moon 
+and your words are as sweet as honey.
+
+You, a brilliant goddess,
+plunge into the ocean of ancient Tamil.
+Grant us moksha.
+
+You are the precious jewel
+of the Pandyan dynasty 
+that rules the entire world.
+Grant us moksha.
+ 
+Chapter VI.  The Baby Goddess Walks.
+
+53. Walking with Lovely Ringing Anklets 
+
+You walk with your small lovely feet
+stepping slowly 
+as your beautiful anklets ring
+with the kinkini bells 
+strung on them.
+
+The fragrance from the red paste
+that decorates your toes
+spreads into the lovely
+crescent-moon-like ornaments 
+the heavenly women wear on their hair
+when they bow at your feet 
+and it spreads into the young, waxing crescent moon 
+that shines on our father Shiva’s Jata.
+
+Swans with beautiful wings
+follow the gods and goddesses 
+who worship at your lovely feet
+and follow you with them.
+
+The swans follow you
+together with the group of heavenly women.
+Is that because they like the soft sound
+of your precious diamond-studded anklets?
+Or they want to learn your lovely gentle walk?
+
+Do the bells
+of your shining waist ornament ring, 
+because they feel pity for your small thin waist?
+You live in my lotus heart
+because it is a divine temple for you
+and in Kudal where Tamil flourishes
+with its wonderful poems.
+
+You, a beautiful blooming creeper,
+and the queen of Kudal city, 
+come to us. 
+
+O fish-eyed goddess!
+you shine in the karpaga and kadamba forests.
+Come to us.
+ 
+54. Lakshmi, Saraswathi and Parvathi
+
+Lakshmi decorated with fragrant garlands,
+emerged from the deep milky ocean 
+when it was churned by the gods,
+and Saraswathi the goddess,
+the scholar of sweet Tamil literature 
+who walks softly like a beautiful female elephant 
+and whose hair is lovely, 
+both entered into lotus blossoms swarming with bees
+and live there.
+
+But you, a precious diamond creeper
+enter and live in the hearts of your devotees
+that are like blooming ponds of fragrant devotion,
+golden temples for Shiva and you.
+
+On tall flourishing sweet sugarcane trees 
+bunches of heavy flowers bloom
+bending the highest branches as they touch the sky
+and they resemble Kama as he took endless, timeless forms, to fight battles of love
+with his flower arrows and sugarcane bow,
+wandering with his wife Rathi, lovely as a peacock, 
+whose forehead shines like the crescent moon.
+Such is the beauty of the groves of Kudal city. 
+
+You are beautiful as a peacock with lovely tail
+and you stay in Kudal city 
+that flourishes with forests of sugarcane.
+Come to us!
+O fish-eyed goddess! Queen of Kudal city!
+You shine in the karpaga and kadamba forests.
+Come to us.
+55. The Kayal Fish and the Goddess’s War. 
+
+A jackfruit tree covered with thorns 
+and circled with screwpine plants 
+shines as the crescent moon pours its rays. 
+
+A kayal fish leaping through the juice of the jackfruit, 
+jumping over the coconut tree and shaking it,
+makes the coconut break, and the juice pours from it. 
+
+The fish-eyed goddess with her strong army
+large as the ocean 
+conquered not only the groves of one land
+but also the seven worlds, 
+breaking the walls of the forts, surrounding the cities.
+Then, going to the worlds of the gods
+she fought in all the directions 
+making the battlefield bloody.
+
+Kayal fish leap high
+all over the flourishing paddy fields 
+encircled by banks 
+and the fish look like the divine fish banners 
+of the goddess that were raised everywhere,
+flying and touching the sky 
+when she conquered all the worlds.
+Such is the beauty of Madurai
+surrounded with flourishing paddy fields.
+
+O fish- eyed goddess, 
+you are the daughter
+of the king of Tamil Madurai.
+You shine in the karpaga and kadamba forests.
+Come to us.
+56. Ganesa, her Baby Elephant
+
+Ganesha, the elephant god, drinks the sweet nectar
+that flows from your round breasts 
+adorned with diamond ornaments. 
+
+His tusks are white like the lustrous moon 
+that pours light as white as a waterfall.
+He broke mountains with his tusks
+decorated with their kimpuri ornament. 
+
+Kumkum and the yellow pollen
+falling from his garlands
+make his forehead look like a golden pot of kumkum.
+
+He takes water from all the seven oceans
+with his large trunk 
+and fills his ears to use it for ichor.
+
+He touches the crescent moon in the sky
+with his trunk thinking that it is his angusa weapon.
+
+The pearl-studded ornament on his forehead 
+looks like the blue sky, shining with stars.
+
+He, a young baby elephant
+drips ichor and his eyes are small.
+He is murderous.
+You, as a female elephant, gave birth
+to that baby elephant.
+Come to us. 
+
+O fish-eyed goddess! you shine in the karpaga 
+and kadamba forests. Come to us.
+57. The Moon, the Ganges and Kudal City 
+
+The young white moon
+on the Jata of Shiva that drips nectar 
+becomes red touching 
+your shining lotus-like feet decorated with red paste.
+
+The water of the great Ganges
+that flows on the jata of Shiva
+with shining waves dashing on its banks
+becomes red as it mixes with the red paste 
+on the feet of the goddess. 
+
+You are the green goddess as lovely as a creeper
+and your feet touch the Jata on Shiva’s head.
+
+The fragrant breeze blowing through the branches 
+of the tall green kamugu trees
+cools Indrani, the wife of Indra, king of the gods
+when she rides on the back
+of Indra’s elephant Iravadam in the wide sky
+where the bright stars shine.
+
+Such is Kudal city
+where fragrant groves 
+bloom with lovely flowers and fragrant breezes blow. 
+
+You were raised in that Kudal city. 
+O daughter of Pandyan king,
+come to us.
+
+O fish-eyed goddess, 
+you shine in the karpaga and kadamba forest.
+Come to us.
+58. The River Vaikai
+
+The Vaikai river gathers 
+the jewels heaped in it
+by bathing young girls
+who have mountain-like breasts
+adorned with garlands and kumkum paste,
+and rises to the sky
+and blocks the heavenly rivers.
+
+Because the heavenly rivers are blocked, 
+the sun loses its path
+and floats like a lustrous golden parisil boat.
+The joyful white crescent moon
+floats like a paddle boat 
+and cannot tell where it is going.
+The abundant bright stars
+float like small midappu-boats,
+shining like the jewels swept down by the Vaikai.
+
+The Vaikai crosses the ichor that flows like a river 
+from the four-tusked elephant Iravadam
+and the flooding water of the Ganges
+flowing in its path.
+
+The Vaikai river flows across the bright sky
+and the blooming karpaga forest
+and reaches the flourishing Pandyan land
+and its waves dash on its cool banks.
+
+You are the queen of great Madurai city
+nourished by the Vaikai river.
+You are our precious life.
+You, the daughter of Malayaduvajan, come, come.
+59. The Beauty of the Fields of Madurai
+
+The six-legged bees,
+opening the fresh petals of the flowers
+dripping with pollen
+play in the honey-like water of the falls.
+
+The bees open the beautiful cool lotus
+and the goddess Lakshmi lives there happily
+making it her temple.
+Seeing that, the Marudam land, as if it were a carpenter,
+created for Lakshmi many lovely lotuses
+in the ponds of Kudal city 
+so that she could live in all of them if she wished.
+
+Large fragrant groves
+are filled with canopy-like kamuga trees 
+whose lovely branches
+hang with ripened fruits.
+
+The paddy plants
+with bunches of many-colored crops 
+grow so high that they make the clouds look 
+like a cloth studded
+with shining jewels.
+
+You are the queen of Madurai city
+flourishing with its colorful paddy fields
+in the Marudam land.
+You are our precious life.
+You, the daughter of Malayaduvajan, 
+come, come.
+ 
+60. The Beauty of Three Goddesses 
+
+The fragrance of oil 
+and the fragrance of incense
+from the divine women’s hair
+enter the long trunks of the elephants 
+of all the eight directions and make them dizzy. 
+
+The waists of those divine women
+are small and thin.
+Their mountain-like breasts
+are smeared with sandal paste.
+The gentle breeze that comes
+from the fans that they wave
+with their lovely hands
+hurts their waists.
+
+The goddess Lakshmi beautiful as a creeper 
+and Saraswathi, goddess of all the arts,
+live on lotuses
+where bees drink honey and sleep.
+You give your grace to those goddesses
+smiling at them with your bright moon-like teeth.
+
+O you lovely young deer with a green body,
+dark eyes and a sweet red mouth, come.
+You are our precious life.
+You are the daughter of Malayaduvajan,
+come, come.
+ 
+61. Praising the Daughter of Malayadvajan 
+
+You yourself are the reward
+for the poets who composed
+ancient divine everlasting songs 
+to adorn you.
+
+You are the fragrant taste of Tamil,
+sweet as a ripened fruit
+and flourishing
+with its prose, poetry and drama.
+
+You are the lamp that is lighted 
+in the temple-like hearts of your devotees
+who have rooted out all traces of ego.
+
+You are a young soft female elephant 
+that plays in the hills
+of the tall-peaked Himalayas.
+
+The god Shiva, the unique one,
+transcends this earth
+surrounded by oceans with breaking waves.
+He has drawn you in his divine heart
+as a living picture
+and looks at you always.
+
+You are a lovely vanji creeper.
+Bees drinking sweet honey 
+swarm around your thick forest-like hair,
+come, come
+
+You are our precious life.
+You are the daughter of Malayadvajan, come, come.
+62. Praising the Daughter of Malayadvajan
+
+You, a lovely young female elephant, come.
+Around your fragrant hair 
+honey-drinking bees swarm, come.
+
+You, the abundance of wisdom, come.
+You are an excellent feast 
+given to the bright three-eyed god
+who wears the crescent moon on his Jata, come.
+
+You, the origin of all the three gods,
+Brahma, Vishnu and Shiva, come.
+You, the highest joy that has no origin, come.
+
+You, the meaning 
+of the ancient Vedas, come. 
+
+You are a creeper
+ripening with compassion, come.
+
+You take away the births
+of your devotees who plunge
+into the flood of your grace
+by showing your sidelong glance of love.
+
+You, a lovely green parrot 
+that babbles sweetly like a baby, come.
+
+You are our precious life, come.
+You the daughter of Malayadvajan,
+come, come, come.
+ 
+Chapter VII. Calling the Moon to Play with the Baby Goddess.
+
+63. The Jealous Moon.
+
+O moon, why won’t you come to play with her?
+
+The books of the arts say 
+that she is as lovely as a green parrot 
+and her words are as sweet as rock candy 
+and complain 
+that you are not as beautiful as she. 
+Are you worried about what the books say?
+Is that the reason why you don’t come 
+to play with her?
+
+Are you unwilling to come
+because you know 
+that she is the wealth of all arts?
+
+Are you jealous that she belongs
+to the line of the moon
+of the Pandyan kings 
+who wear lovely garlands swarming with bees?
+Is that the reason why you don’t come
+to play with her?
+
+Are you angry with her
+because our father Shiva keeps you 
+as a fragrant cool garland on his Jata 
+and her as a part of him?
+
+Are you upset because she was born 
+with Lakshmi in the deep ocean of milk 
+where you were also born with Lakshmi,
+your dear friend.
+
+She, the princess, calls you saying, “Come, hurry!”
+Even though are not fit to play with her,
+still she calls you.
+O moon, come to play with her.
+
+Shining like a diamond creeper,
+she embraces Shiva
+who carries a strong golden bow.
+O moon, come to play with her.
+ 
+64. The Blemishes in the Moon
+
+O moon,
+some of the gods received nectar from the milky ocean, 
+squeezed it out, poured and drank it.
+You received what was left of that nectar
+after they had spit it out.
+
+You suffered because the two fire-spitting snakes 
+Raagu and Ketu swallowed you and spat you out.
+
+Your bright white body is marked by black blemishes
+in the shape of a rabbit.
+
+People mock you saying
+no one should see you 
+on the fourth day of the growing moon.
+You are just one of many stars 
+that wander through the sky.
+
+Surely there is no refuge for one
+who moves like you other than this Madurai
+that removes all great sins.
+
+The fish-eyed goddess,
+beautiful as a female elephant,
+stays on the bank of the Vaikai river
+that flows with its abundant rising water 
+that shakes the karpaga trees. 
+O moon, come to play with her. 
+
+Shining like a diamond creeper, 
+she embraces Shiva who carries a strong golden bow.
+O moon, come to play with her.
+65. The Moon Steals the Goddess’s Beauty
+
+O moon,
+you steal the beauty of her shining forehead
+and become bright
+when you are a crescent moon.
+
+Women with wide fish-like eyes
+bow to you, putting down dried cow dung
+as they worship the goddess.
+
+You steal the lustrous beauty of her face 
+when you become full, bright and white, 
+sprinkling nectar on the earth.
+And that is not all.
+
+With the Ganges that is her rival,
+you stay on the Jata of her lover Shiva,
+yet she forgets her jealousy and calls you.
+How can words do justice to 
+her great compassion?
+
+She is the princess of the Pandyan country
+protected by Maladuvaja Pandyan 
+who rules the whole world
+bearing it on his strong shoulders.
+O moon, come to play with her.
+
+Shining like a diamond creeper,
+she embraces Shiva
+who carries a strong golden bow.
+O moon, come to play with her.
+ 
+66. The Goddess Saves the Moon as it Seeks Refuge from Raahu. 
+
+Even though you shine everywhere in the sky
+and make it bright,
+you suffer when your cruel enemy
+the snake Raahu 
+swallows you and spits you out.
+
+If you enter
+the hot shining world of the sun for refuge,
+your brightness will fail 
+and you will become dim.
+
+Even though our father Shiva
+holds you in his forest-like jata,
+you cannot close your eyes and sleep
+because you are afraid of the snake
+that encircles Shiva’s jata. 
+
+The small feet of the fragrant-haired goddess
+who is on Shiva’s Jata
+might kick you
+and injure your stomach.
+
+If you take refuge in our princess 
+you will receive this universe
+and everything beyond it.
+O moon, come to play with her.
+
+Shining like a diamond creeper,
+she embraces Shiva
+who carries a strong golden bow.
+O moon, come to play with her.
+67. The Fame of the Goddess
+
+Her boundless fame
+transcends all the worlds 
+and shines like a large moon.
+
+Taking only a sesame-seed’s measure 
+of light from her brightness 
+you shine as the white moon.
+
+You plunge into the flood-like compassion 
+that her glances pour on you
+and give your cool light to the earth.
+
+Only the power that she gives you 
+enables you to give cool light to the earth 
+and make crops flourish
+
+O moon god of beauty,
+you have no power of your own,
+only what she gives you,
+and you know that is true.
+
+She is the princess of the majestic king 
+who rides on a joyful elephant.
+O moon, come to play with her.
+
+Shining like a diamond creeper,
+she embraces Shiva
+who carries a strong golden bow.
+O moon come to play with her.
+ 
+68. The Excellence of the Pilgrimage to Madurai.
+
+The terrible curse that Indra
+the king of gods received,
+and the curse put on the angry elephant Iravadam,
+and the fever and the bent back 
+of the Pandyan king who nourished 
+all three ancient branches of Tamil—
+all these were removed by pilgrimage to Madurai. 
+O moon, don’t you understand
+the greatness of this place?
+
+The pilgrimage to Madurai, the kingdom of Shiva,
+the place of absolute peace,
+gives moksa to devotees.
+
+Look, if you go on this pilgrimage,
+the sin that you have done
+against Guru viyaazhan, 
+the curse that Daksha gave you,
+and your waning and waxing, becoming old, 
+getting gray hair and a bent back, 
+all these things will be removed. 
+
+She is as sweet as honey 
+and she gives her loving grace
+to the devotees who worship her 
+with their bones melting.
+O moon, come to play with her.
+
+Shining like a diamond creeper,
+she embraces Shiva
+who carries a strong golden bow.
+O moon, come to play with her.
+69. The Compassion of the Goddess for the moon
+
+O moon, you stay on the Jata of Shiva 
+who wears the skin 
+of a rutting elephant. 
+
+When beautiful women pick flowers, 
+you rub their hands soft as tender leaves
+with your rays and scratch them.
+When those lovely women decorate 
+their little feet with red paste,
+their hands hurt 
+and they become nervous,
+thinking that your scratches,
+red as if caused by fire, are boils.
+You are the reason they are scared.
+
+You are the umbrella for Kama 
+the son of Narasimha, half lion and half man,
+and you give him shade
+even though he has the same sugarcane bow
+and the same five kinds of flower arrows
+and the same fish-banner as the goddess. 
+Yet she was not angry with you
+even though you did all those things,
+but calls you to come to play with her.
+O moon, come to play with her.
+
+Shining like a diamond creeper,
+she embraces Shiva
+who carries a strong golden bow.
+O moon, come to play with her.
+ 
+70. The Goddess and the Moon of the Same Lineage
+
+O moon, 
+you were born in the Pandyan family 
+to nourish that ancient tradition, 
+pouring sweet nectar-like brightness with your rays 
+as white as waterfalls 
+
+And she, soft as a tender shoot, 
+a princess of the Pandyan family, 
+was born to nourish that tradition.
+
+You see that you were born in the same family as she,
+yet you did not make her your friend 
+feeling happy in your mind
+and gazing at her joyfully.
+You stay in the sky without coming down 
+to speak and play with her.
+
+You gave up your food, nectar and beauty
+and wandered with Shiva
+who carried a mud pot for porridge
+and went and begged with him.
+Is that why you have a black mark on your body?
+
+But more than that,
+there is another just like you 
+who shines in the clear sky in the day.
+You swallow the rays of light that he emits 
+after he has finished with them,
+and you take that light 
+and in the deepest darkness of night
+you move shining with it.
+How could you humble yourself so?
+
+She is divine 
+and her hair is decorated with flowers
+swarming with buzzing bees.
+O moon, come to play with her.
+
+Shining like a diamond creeper,
+she embraces Shiva
+who carries a strong golden bow.
+O moon, come to play with her.
+ 
+71. How We Saved You from her Anger
+
+When the goddess who has dark cloud-like hair 
+called you, you did not come 
+and she became angry.
+
+We said, “Perhaps the moon 
+did not come quickly
+because he was ashamed 
+to come before your radiant face, 
+and he may have hid instead. 
+Or perhaps he was worried
+that the snakes Raahu and Kethu
+would follow him and hurt him.”
+We made these excuses for you 
+and somehow saved you from her anger. 
+
+But now, if she grows angry at you again,
+there is no way to save you. 
+
+The divine apsarasas who live in the sky
+and who wear lovely garments 
+decorate the goddess’s beautiful long hair,
+wipe the sweat from her forehead
+and then, moon, they call for you to come, 
+saying this is a good time 
+for you to play with her.
+
+O moon, come to play with the queen of Madurai 
+surrounded by large forts.
+
+Shining like a diamond creeper, she embraces Shiva 
+who carries a strong golden bow.
+O moon, come to play with her.
+72. The moon on the Shiva’s Jata
+
+O moon, the goddess rules 
+from above all the Vedas
+that have never been written down.
+Her divine feet abide and shine in your heart.
+
+Shiva acts out his drama in this world
+with his five-fold actions—creating, protecting, 
+destroying, veiling and giving grace.
+Doesn’t he place you in his Jata 
+together with the river Ganges
+because he thinks 
+that the feet of the goddess 
+that shine in his heart also shine in yours?
+
+If she is pleased with you in her divine heart, 
+then there is nothing more for you to achieve
+even if you do the most excellent tapas.
+
+Listening to the sweet music 
+that the beautiful women play on yaazs shaped like makara fish, 
+plucking the strings with their lovely fingers, 
+the kunguma trees shed lovely flowers soft as thin cloth. 
+The flourishing kongu trees bloom 
+with clusters of golden flowers like bundles of gold.
+Such is the beauty of Madurai 
+blooming with kunguma and kongu blossoms.
+
+O moon, come to play 
+with the beautiful girl of Madurai.
+Shining like a diamond creeper, she embraces Shiva 
+who carries a strong golden bow.
+O moon, come to play with her.
+
+Chapter VIII. The Goddess Plays Ammaanai balls.
+
+73. The Goddess Throws the Ammaanai Balls up in the Sky
+
+O goddess, when you play ammaanai, 
+the ammaanai balls 
+look like balls of food 
+that people roll in their hands and give 
+to fill the huge stomach of a male elephant 
+whose cheeks flow with ichor
+like water poured from pots. 
+
+O goddess, when you play ammaanai, 
+the ammaanai balls 
+look like as if someone 
+carried bright pots of nectar 
+and threw them up in the sky 
+to ease the suffering of the great gods
+when they could not obtain nectar
+when they churned the ocean of milk.
+
+O goddess, when you play ammaanai
+it looks as if a row of balls 
+studded with precious pearls
+were thrown into the sky.
+
+O goddess, when you play ammaanai, 
+the balls look like 
+a cluster of white swans
+that wake up and raucously 
+fly up to the sky
+from beautiful fragrant lotus flowers
+that open up and spread their petals. 
+
+You are the queen of Madurai 
+where the white waterfalls 
+of the Vaikai river 
+look like ground sandal paste 
+against the black hills.
+Play ammaanai and give us your grace.
+
+You are a lovely one  
+who abides in the heart of the unique Shiva
+and shares the left part of his body.
+Play ammaanai and give us your grace.
+ 
+74. The Ammaanai Balls Look like Rice Balls and Little Deer
+
+O goddess, 
+when you play ammaanai 
+the balls look like the bees  with six legs and green eyes 
+that hover on the white rice balls 
+that you threw at your wedding at your husband Shiva 
+who wears the crescent shinning moon in his long thick Jata.
+
+O goddess, 
+when you play ammaanai
+the balls look like young innocent deer
+jumping on the cool moon, as it rises in the sky.
+
+O goddess, 
+When you and your friends play ammaanai
+the balls jump and you and your friends look on, 
+your eyes darting like leaping fish.
+
+O goddess, 
+when you play ammaanai,
+the young Ganesha plays 
+butting and attacking a group of clouds
+thinking they are murderous enemy elephants with cruel eyes.
+
+O goddess Abhishekavalli!
+you carry a bow made of sugarcane whose stems have joints
+and five arrows of blooming flowers swarming with bees.
+Play ammaanai and give us your grace.
+
+You are a lovely one  
+who abides in the heart of the unique Shiva
+and shares the left part of his body.
+Play ammaanai and give us your grace.
+75. The Ammanai Balls Change Color
+
+O goddess, 
+when you play ammaanai the balls become red 
+as they are thrown from your sweet hands 
+that are like red lotuses where honey drips.
+
+O goddess, 
+when you play ammaanai, the balls become black in color
+when the compassionate glance 
+of your sweet nectar-like dark eyes falls on them. 
+
+O goddess, 
+when you play ammaanai the balls become white in color
+when they are lit by the bright smile 
+on your face that is like the moon without its black marks.
+
+O goddess, 
+the precious pearl balls that you play with, show
+the three gunas, saatvikam, raajadam and daamadam 
+as they continuously change
+into three colors, red, black and white.
+
+You are the precious honey 
+that springs in your devotees’ hearts. 
+They love you and Shiva and their bonds melt 
+as they remain in a state  that is neither waking or sleeping.
+O sweet goddess, 
+play ammaanai and give us your grace.
+
+You are a lovely one  
+who abides in the heart of the unique Shiva
+and shares the left part of his body.
+Play ammaanai and give us your grace.
+76. The jealous sun.
+
+O goddess, 
+when you throw the pearl ammaanai balls 
+from your hands that are as red as kaanthal flowers
+it looks as if the burning red sun
+had grown jealous of the white moon 
+and were chasing him
+because the moon god 
+always touches his wives, the lotuses 
+in the night with his white rays. 
+
+The sounding waterfall
+carries pearls, diamonds and precious jewels 
+from the highest mountains 
+and the river Vaikai with its rolling waves 
+throws them up on its banks.
+
+Iravadam, the rutting four-tusked elephant 
+trumpets and runs along the banks
+of the Vaikai river with its breaking waves. 
+
+You are a lovely swan with beautiful wings 
+that lives on the banks 
+of the Vaikai in Madurai. 
+Play ammaanai and give us your grace.
+
+You are a lovely one 
+who abides in the heart of the unique Shiva
+and shares the left part of his body.
+Play ammaanai and give us your grace.
+ 
+77. The Goddess Plays Ammaanai with her Friends
+
+Some of your beloved friends 
+take the pearl ammaanai balls 
+in their beautiful hands 
+and throw them to you
+one after another, to your left and right.
+
+The thousands of round balls
+that you catch and throw up in the sky 
+look like rows of worlds 
+that you have created. 
+
+Disturbed by the balls as they are thrown up,
+bees with lines on their body 
+swarm noisily,
+stirring up fresh pollen in the grove
+so the pollen rises 
+and makes the sky dark.
+
+The dark pollen 
+looks like the dust 
+that rose on the battlefield 
+when you fought against the cities 
+of Alagapuri, the capital of Kubera, 
+and Amaravathi, the capital of Indra. 
+O queen of Madurai!
+Play ammaanai and give us your grace.
+
+You are a lovely one  
+who abides in the heart of the unique Shiva
+and shares the left part of his body.
+Play ammaanai and give us your grace.
+ 
+78. The Ganges and Lustrous Madurai
+
+The goddess Lakshmi, your friend, as dear to you as life,
+challenges you to a game of ammaanai.
+She runs everywhere trying to catch the balls.
+
+Seeing you play ammaanai 
+without running here and there, 
+Shiva, our god, shakes his jata that shines with crescent moon.
+
+The divine Ganges, the beautiful creeper,  
+that on the Jata of Shiva,
+as she floods and rolls with white foaming waves
+looks as if she is also playing with pearl ammaanai balls.
+
+The beautiful hillocks of Madurai 
+studded with precious corals
+and the patios of the palaces 
+studded with pearls 
+shine like the rays of the white moon.
+Seeing the luster of Madurai, 
+the carpenter of the gods, Devadachan, is jealous and surprised
+because he did not make Madurai
+and yet it is so beautiful.
+
+All the elephants that protect Madurai in the eight directions 
+equal Iravadam, the elephant of Indra. 
+O queen of Madurai! Play ammaanai and grant us your grace.
+
+You are a lovely one,
+who abides in the heart of the unique Shiva
+and shares the left part of his body.
+Play ammaanai and give us your grace.
+ 
+79. The Pearl and Coral Ammaanai Balls
+
+O goddess,
+the ammaanai balls studded with pearls 
+spread the fragrance of your lotus hands.
+
+The bees that swarm around your hair 
+are fascinated with your dark bee-like eyes.
+
+Studded with diamonds, the ammaanai balls 
+hear your flute-like voice 
+as lovely as the calling of a cuckoo,
+and the sweetness of the sound 
+makes them melt and drip 
+small drops of dew.
+
+As you plays with your beautiful hands, 
+the ammaanai balls studded with corals 
+look as if they had stolen the brightness 
+of your soft coral-like fingers, 
+as they are thrown up and fall, moving randomly.
+
+O goddess,
+you are a living painting drawn in the heart of Shiva.
+Play with the ammaanai balls.
+You are auspicious 
+and filled with beauty.
+Play with the ammaanai balls.
+ 
+80. Pearl and many bright ammaanai balls.
+
+O goddess,
+you are a beautiful creeper 
+and your hair is filled 
+with bees that sing 
+like a yaaz playing the vilari raga.
+
+The pearl ammaanai balls 
+that you throw to the sky 
+form rows and look like pearl garlands 
+shining with soft rays
+and decorating 
+the divine chest of Shiva, the sky. 
+
+The many bright ammaanai balls 
+studded with many-colored jewels 
+look like a rainbow
+as they are thrown into the sky.
+
+O goddess, you are a sweet fruit.
+You give your love 
+and divine grace to your devotees
+who worship you with the highest joy, 
+melting their hearts. 
+Play with the ammaanai balls.
+
+You are auspicious 
+and filled with beauty.
+Play with the ammaanai balls.
+ 
+81. What People Say when they See the Ammaanai Balls
+
+The white pearl ammaanai balls 
+that the goddess throws from her lotus hands 
+become bright and red. 
+Those who see the glow of the balls 
+stand speechless.
+
+Some say, “Even though these balls are made of rubies, 
+they do not know that 
+and become more red 
+because they are thrown from the lotus hands of the goddess.”
+
+Some say, “Even though these balls are made of dark jewels, 
+they do not know that
+and they steal the darkness of the glance 
+of the eyes of the goddess
+to become more dark.”
+
+They all say whatever they feel.
+They are like those 
+who belong to other religions
+and babble 
+without a feeling of belonging anywhere.
+
+O goddess, 
+you, the wife of Shiva,
+are the mother of all the gods
+who proudly claim 
+that they are the origin of all creatures.
+
+Play with the ammaanai balls.
+You are a beautiful, auspicious queen.
+Play with the ammaanai balls.
+82. The Goddess Sending Birds as Messengers to Shiva
+
+O goddess, 
+your ammaanai balls 
+made of lustrous emeralds, 
+dark sapphires 
+and precious pearls shine bright.
+
+When the goddess whose dark hair 
+is decorated with lovely flowers 
+dripping with honey,
+throws the matchless balls to the sky
+they go to the three-eyed lord.
+
+As your hands throw 
+the emerald, sapphire and pearl ammaanai balls
+into the sky, it looks as if you are sending 
+the green parrot
+that you keep upraised in your hand,
+lovely dark cuckoo birds, 
+and white baby swans,
+one after another, as messengers 
+to Shiva to tell him of the abundant love
+you have for him.
+
+You are the queen of rich Madurai
+where the king swan sleeps 
+embracing his mate 
+on the wet fertile mud field.
+
+Play with the ammaanai balls.
+You are a beautiful, auspicious queen.
+Play with the ammaanai balls.
+
+
+Chapter IX. The Baby Goddess Bathes
+
+83. The Goddess Plays in the Water
+
+O goddess, 
+when you bathe, 
+the sound of the ocean conches 
+with high rolling waves
+mixes with the tinkling sound of 
+the golden conch bangles 
+that decorate your beautiful hands.
+
+When you bathe, 
+your thick lined fish-like eyes 
+move like the kayal fish 
+that frolic in the waves. 
+
+When you bathe, 
+your thick hair swarming with bees 
+that drink honey 
+from the pollen of the flowers
+looks like green moss floating in the water.
+
+Your great bull elephant 
+has huge mortar-like feet
+small eyes and a large trunk.
+When you make him fight with the elephant Iravadam,
+who is white and in rut,
+it is as if relatives 
+were meeting and embracing each other.
+
+You play with the rutting elephants 
+of the eight directions using them as balls.
+
+O goddess, play, 
+plunging into the new flood of water 
+of the Vaikai river with cool banks 
+and grant us your grace.
+
+O goddess, 
+you are a lovely creeper, 
+you gave your fish-banner
+to Shiva who carries a bull banner.
+Play in the flood of water 
+and grant us your grace.
+ 
+84. The Goddess Plunges into the Vaikai and Plays
+
+O Goddess, 
+as you plunge into the water 
+that foams with waves 
+the white bangles
+that decorate your red hands 
+sing beautifully 
+as they hit against one another.
+
+As you plunge into the water 
+your bright white teeth 
+shine like the moon 
+and they change 
+your coral lips to a pale color. 
+
+As you plunge into the water 
+your eyes dark as kuvalai blossoms 
+become red like kuvalai flowers.
+
+As you plunge into the water 
+your curly thick hair
+that is like black sand
+becomes loose.
+
+As you plunge and play 
+in the cool beautiful water with rolling waves,
+it looks as if the Ganges with rising waves 
+sprayed small drops of water, 
+playing happily with Shiva,
+the ocean of the highest joy.
+
+When young women from the fertile fields 
+bathe in the Vaikai river, 
+the sandal paste 
+that decorates their breasts
+dissolves, mixes with the dark mud 
+and makes it red. 
+
+The waves of the Vaikai, 
+spread the fragrance of sandal
+on the banks of the river.
+
+O goddess, play, 
+plunging into the new flood of water 
+of the Vaikai river with cool banks 
+and grant us your grace.
+
+O goddess, 
+you are a lovely creeper, 
+you gave your fish-banner
+to Shiva who carries a bull banner.
+Play in the flood of water 
+and grant us your grace.
+ 
+85. The Emerald Color of the Goddess
+
+O goddess, you are like a lovely doll.
+Your voice is as sweet as a singing parrot’s.
+
+Because your green body spreads 
+its beautiful green color over the earth, 
+the soft, flourishing creepers of coral lose their red color
+and look like green emerald creepers, 
+the huge white pearls in the water look like emeralds, 
+and the swans with lovely white wings
+that wander on the cool banks of the Vaikai
+look like happy peacocks.
+Knowing this the four Vedas proclaim, 
+“O Goddess, every form on the earth is yours.”
+
+After mixing with the water of the divine rivers
+Saraswathi, Jamuna and Ganges, 
+the new flood of the Vaikai flows along the earth 
+spreading the fragrances
+of red sandal paste, dark musk and white camphor
+that bathing women 
+have smeared on their round breasts
+as bees swarm near their hair 
+that is fragrant with the pollen from the flowers they wear.
+
+O goddess, play,  plunging into the new flood of water 
+of the Vaikai river with cool banks and grant us your grace.
+
+O goddess, 
+you are a lovely creeper, 
+you gave your fish-banner
+to Shiva who carries a bull banner.
+Play in the flood of water, and grant us your grace.
+86. Sprinkling Yellow Powders
+
+Six-legged bees with beautiful wings 
+sleep on your lovely hair, decorated with blossoms.
+
+When your beloved friends fan you,
+the cool drops of fragrant water 
+mix with kumkum paste, they flow all over.
+They redden the blue sky, 
+which is the body of Shiva 
+who bent the mountain as a bow,
+and as the red of the drops
+and blue of the sky come together,
+they turn yellow
+and it looks as if you were playing
+the game of sprinkling yellow water
+with your beloved Shiva.
+
+An angry elephant caught 
+in the middle of the wild flood 
+flowing from a mountain waterfall
+is entangled by a snake 
+and looks like Mandara mountain
+when it was used as a churning stick
+encircled by the snake Adisesha for the rope 
+when the milk ocean was churned.
+
+O goddess, play, plunging into the new flood of water 
+of the Vaikai river with cool banks and grant us your grace.
+
+O goddess, you are a lovely creeper, 
+you gave your fish-banner
+to Shiva who carries a bull bannert.
+Play in the flood of water and grant us your grace.
+87. The Goddess and her Friend Saraswathi.
+
+Your friend Saraswathi, 
+lovely as a creeper,
+the goddess of the ancient Vedas, of the arts
+and all the branches of Tamil, 
+plunges and plays hiding in the water.
+
+Wishing to find her
+you run after her
+and it looks as if you are running behind a swan
+because it stole your lovely walk 
+and the pretty sound of your bright anklets.
+
+The Vaikai river scattering pearls and diamonds 
+seems as if it were gambling,
+throwing pearl and diamond balls
+and calling the Ganges 
+to come and play with her. 
+
+O goddess, play, 
+plunging into the new flood of water 
+of the Vaikai river with cool banks 
+and grant us your grace.
+
+O goddess, 
+you are a lovely creeper, 
+you gave your fish-banner
+to Shiva who carries a bull banner.
+Play in the flood of water 
+and grant us your grace.
+ 
+88. The Beauty of Madurai and its Women
+
+As six-legged bees swarm above
+their thick, forest-like hair, your friends
+whose breasts are as lovely as golden pots
+play swimming in the pure water of the Vaikai
+throwing golden yellow powder all around.
+
+As your beautiful dark bee-like eyes 
+gaze at the divine body of Shiva with love
+they grow red with pleasure and blazing passion,
+like the eyes of young men when they gaze at young women. 
+
+Seeing the passion in the eyes of young men, 
+lovely women light incense
+so its fragrant smoke can perfume their soft thick hair 
+and the smoke that spreads from it
+makes the bunches of bananas 
+on the tops of trees in Madurai 
+ripen and grow sweet as honey.
+
+You are the queen of Madurai 
+where the fragrance of ripe bananas spreads everywhere.
+Such is the beauty of Madurai.
+
+You are the great queen of Madurai.
+Bathe in the new water
+and give us your grace.
+
+You are the precious daughter 
+of the Pandyan king
+of the city on the bank of Porunai river.
+Bathe in the new water
+and give us your grace.
+89. The Beauty of Madurai
+
+Saraswathi, the goddess of the arts 
+who lives on a white lotus, said to you, 
+“This is the cool bank
+of the river Vaikai where our lord Shiva
+carried sand for Vanthi to get pittu.”
+
+When you heard this 
+your heart melted,  your eyes grew red 
+and you shed a flood of joyous tears.
+
+O goddess,
+if your tears flow in a flood
+Shiva may need to stop it
+as he did for Vanthi.
+Wouldn’t that be too much for him to do?
+
+You shine in Kudal city 
+flourishing with groves
+where honey drips like a waterfall
+and where Indra’s elephant, Iravadam, 
+whose tusks are as bright as the crescent moon
+plunges in the soft pollen 
+of blossoms dripping with honey 
+in the karpaga garden 
+and plays with his mates.
+
+Bathe in the new water and give us your grace.
+You are the precious daughter 
+of the Pandyan king
+of the city on the bank of Porunai river.
+Bathe in the new water
+and give us your grace.
+90. Shiva Carries Sand to Get Pittu
+
+O goddess,
+you are the wife of Shiva
+who carried sand in a basket
+on the banks of the Vaikai 
+where waves of cool water rise.
+
+If you plunge and bathe
+in the pure water by the banks of the Vaikai 
+where Vanthi gave white pittu to Shiva 
+and where the Pandyan king hit him,
+the fragrant kumkum paste
+that adorns your round, golden breasts
+decorated with diamonds
+will dissolve and mix with the sand.
+
+If Shiva wishes to come
+and carry that fragrant sand
+mixed with your kumkum paste
+as he did for Vanthi,
+the Ganges will be jealous
+and may not wish to stay on his jata.
+
+You raised your fish banner 
+on the golden peak of Himalayas.
+Bathe in the new water
+and give us your grace.
+
+You are the precious daughter 
+of the Pandyan king
+of the city on the bank of Porunai river.
+Bathe in the new water
+and give us your grace.
+91. Saraswathi and Indrani Decorate the Goddess
+
+Saraswathi, beautiful as a creeper, goddess of art,
+and Lakshmi, lovely as a creeper, who stays on a lotus,
+string a fragrant garland for you.
+
+Indirani, the beautiful wife of Indra, 
+puts a dot on your forehead,
+and your shining breasts 
+are decorated with drawings 
+made of kumkum. 
+
+When you plunge into the water 
+it is a lovely feast for the eyes of Shiva, our lord.
+
+Your eyebrows are lovelier
+than the sugarcane bow of Kama
+who raises his fish banner 
+with his beautiful wife Rathi, 
+they are lovelier than the rainbow, 
+and they all bow to you.
+
+O goddess, 
+you shine as a golden creeper.
+You are the lovely 
+daughter of the king of the Himalayas.
+
+Bathe in the new water and give us your grace.
+
+You are the precious daughter 
+of the Pandyan king
+of the city on the bank of Porunai river.
+Bathe in the new water
+and give us your grace.
+92. The Beauty of Madurai and the Goddess
+
+O goddess, 
+you are as beautiful 
+as a young female elephant 
+born in the Himalayas
+that plunges and bathes 
+in the white waterfalls 
+that descend with abundant water. 
+
+You are as lovely as a female swan 
+that swims spreading its wings 
+on the banks of the river in Korkai city. 
+
+You are like Lakshmi,
+the sweet cuckoo bird 
+who stays on a red lotus flower 
+growing in the center of 
+the sweet ocean of milk. 
+
+As you stay on the jata of Shiva with the Ganges, 
+you look like a precious red creeper of coral
+growing in the divine Ganges 
+with rolling waves.
+
+Madurai is filled with blooming groves
+where male bees, their bodies lined,
+learn flute music from women who sing, 
+swarm on their hair dripping with honey,
+and then embrace lovely female bees
+that are drunk on the honey 
+from the golden karpaga garden.
+
+
+Such is the beauty of Madurai 
+filled with blooming groves.
+You are the queen of Madurai.
+Bathe in the new water of the Vaikai.
+
+You are the queen of the land 
+on the banks of Porunai and Kumari rivers.
+Bathe in the new water of the Vaikai 
+and give us your grace.
+ 
+Chapter X. The Goddess Plays on a Swing
+
+93. The Lustrous Swing of the Goddess.
+
+O goddess,
+you play on a swing
+tied between strong pillars
+studded with shining corals and lustrous diamonds, 
+hanging from the roof. 
+The swing is tied with chains made of precious pearls 
+that look like the bright rays of the cool moon.
+When you sit on the seat made of rubies
+and play on the swing,
+you appear like the bright sun 
+moving through the sky.
+
+You, a lovely creeper, 
+enter the lotus hearts of your proud devotees
+who bloom and melt
+with sweet nectar-like devotion for you
+and plunge into the ocean of happiness
+where ancient songs of devotion
+are always heard.
+Play on the golden swing and
+give us your grace.
+
+O goddess, a lovely creeper, 
+You are as divine and beautiful 
+as your beloved Shiva,
+whose body you share.
+Play on the golden swing
+and give us your grace.
+ 
+94. The Goddess as Divine Doll
+
+O goddess, 
+when you swing beautifully 
+on the swing made of white pearls
+wearing shining ornaments
+you look like the moon
+spreading its soft rays.
+
+When you swing on the pearl swing 
+you look like Saraswathi
+goddess of ancient, beautiful song 
+who stays on a white lotus.
+
+When you swing 
+you look like the moon 
+that shines with bright rays 
+and sprinkles sweet nectar 
+
+You are the divine doll
+of Madurai surrounded 
+by golden walls 
+where the rain clouds creeping
+above the tops of palaces
+studded with sapphires
+look like the pretty daughters 
+of the shining sun
+sitting on his lap and playing.
+
+O goddess, a lovely creeper, 
+You are as divine and beautiful 
+as your beloved Shiva,
+whose body you share.
+Play on the golden swing and give us your grace.
+95. The asoka tree, Kama and the palaces of Madurai
+
+O goddess, 
+you kick and play on the golden swing
+and its light is so bright 
+that it looks like the sparkling rays of the sun.
+
+When you pump the swing
+with your feet that are as soft as shoots,
+you kick an asoka tree
+and it sheds flowers dripping with honey.
+The asoka tree looks like Kama, the thief,
+discovering the disguised Shiva
+enjoying your beauty,
+and shooting ceaselessly his flower arrows
+from his sugarcane bow
+because he felt this was a perfect time
+to disturb the god.
+
+The crescent moon throwing 
+his soft bright rays on the beautiful hillocks
+by the palaces studded with lustrous rubies,
+looks like, as if the moon, wishing 
+to possess the beauty of your divine face,
+was doing tapas standing on a red fire.
+
+You are the lovely parrot of beautiful Madurai.
+Play on the golden swing and give us your grace.
+
+O goddess, a lovely creeper, 
+You are as divine and beautiful 
+as your beloved Shiva,
+whose body you share.
+Play on the golden swing and give us your grace.
+96. The Joyful Goddess Swings in Flourishing Madurai.
+
+The happy heart of Shiva
+who wears the Ganges in his Jata
+sways and dances seeing
+you swinging on the golden swing.
+
+Seeing the loving look of your beloved Shiva,
+your heart melts 
+and you send him sidelong glances
+so he melts with your love.
+
+As you swing 
+it looks as if you were on a golden swing 
+in the divine mind of Shiva 
+who rides on a red- eyed bull.
+
+O goddess,
+you are the queen of sweet Madurai
+flourishing with blooming groves 
+of large jack trees whose pot-like fruits
+are sweet inside
+as they ripen on the roots, 
+and their sweet honey-like juice 
+oozes from them and flows like a waterfalls,
+running through
+all the seven underworlds.
+Play on the golden swing and give us your grace.
+
+O goddess, a lovely creeper, 
+You are as divine and beautiful 
+as your beloved Shiva,
+whose body you share.
+Play on the golden swing and give us your grace.
+97. Women of Madurai Drying Their Hair.
+
+O goddess,
+as you swing on the divine golden swing 
+and your friends sing sweet nectar-like songs,
+Shiva’s jata dances to your music.
+
+The red-eyed king of snakes Adisesha 
+who carries the earth shakes his head
+and all the earth, the underworld,
+and creatures living and non-living 
+swing together.
+
+In lovely Madurai, 
+when the women dry 
+their dark cloud-like hair, decorated with flowers,
+the fragrant smoke from the pots they use
+goes up to the sky 
+and covers the land of the sun 
+making the whole sky dark. 
+
+O goddess,
+you are a lovely parrot of Madurai city.
+Play on the golden swing and
+give us your grace.
+
+O goddess, a lovely creeper, 
+You are as divine and beautiful 
+as your beloved Shiva,
+whose body you share.
+Play on the golden swing
+and give us your grace.
+ 
+98. The Goddess and Shiva on the Battlefield.
+
+When you came onto the battlefield 
+riding on a chariot 
+to fight with Shiva, 
+he grew angry, 
+but when he saw your beauty, 
+blazing passion arose in the heart
+of that highest god
+decorated with fragrant garlands
+and he lost his determination to fight.
+
+Because of his enormous passion,
+nothing he brought to the fight
+helped him.
+His bow, magnificent as a golden hill,
+melted and bent, useless.
+Even though the bright moon on his Jata
+gave so much light,
+it was of no use.
+
+His white bull Nandi, 
+with its shining bells
+came to the battlefield
+but could not help him.
+
+He, with his dark cloud-like throat,
+stood confused and unable to fight 
+on the battlefield where red blood flows.
+
+O goddess, 
+you stood on the battlefield
+with your arrow-like eyes 
+and dark eyebrows like bows
+and you bent your bow
+ready to fight with Shiva.
+And the way you started to fight 
+made it seem you were already prepared to marry him.
+
+O goddess, you are a lovely bride.
+Play on the golden swing
+and give us your grace.
+
+O goddess, a lovely creeper, 
+You are as divine and beautiful 
+as your beloved Shiva,
+whose body you share.
+Play on the golden swing
+and give us your grace.
+ 
+99. The Monkeys of Madurai.
+
+In the large groves 
+vigorous monkeys with deep-set eyes 
+are frightened when a long branch 
+of a jack tree breaks
+and hits the large pot-like jackfruits covered with thorns,
+and they swim in the juice that floods out.
+
+The hunched-backed female monkeys 
+with dark sharp nails on their dark fingers
+scatter and jump into the sky 
+frightened by the flood of juice that flows swiftly.
+
+As the monkeys jump,
+the branches they are on spring up
+and tear the body of the lovely moon,
+and the nectar from the moon descends as a waterfall. 
+
+It was like when Vishnu 
+adorned with a thulasi garland swarming with bees 
+grew into the sky tearing it 
+and making the heavenly Ganges flood 
+and descend as a white waterfall.
+Such is the beauty of Madurai.
+
+O goddess, 
+you are the queen of Madurai. 
+Play on the golden swing and give us your grace.
+
+O goddess, a lovely creeper, 
+You are as divine and beautiful as your beloved Shiva,
+whose body you share.
+Play on the golden swing and give us your grace.
+100. Saraswathi teasing the goddess.
+
+O goddess, 
+The bees swarm around your soft hair, 
+feel sorry for your small waist thin as a creeper,
+buzz and fly away.
+
+When you swing on the golden swing,
+Lakshmi, the goddess who stays on a lotus, 
+seeing a mark shaped like the crescent moon
+made by Shiva when he embraced your body, 
+smiled and teased you, saying,
+“Is this a mark of a valampuri conch?”
+You felt shy and bent your head 
+that had never bowed to anyone.
+
+The women perfume their hair, 
+with fragrant smoke
+because they think the cold dew will harm their hair
+and the pretty male bees,
+happily swarming around their hair,
+see the female bees trembling in the dew
+and embrace them.
+
+Such is the beauty of Madurai flourishing with paddy fields
+where bees swarm. 
+
+O goddess, you are the queen of Madurai.
+Play on the golden swing and give us your grace.
+
+O goddess, a lovely creeper, 
+You are as divine and beautiful 
+as your beloved Shiva, whose body you share.
+Play on the golden swing and give us your grace.
+101. How Shiva Loves You
+
+O goddess, 
+when the divine apsarasas see you
+on the beautiful swing 
+studded with precious diamonds
+they sing, praising you.
+
+As Shiva, the god of gods,
+enjoys your smile, 
+he becomes a sahora bird 
+that drinks the light 
+of the rays of the moon, 
+
+and he becomes one of the bees 
+that sing as sweetly as children
+and swarm around
+your thick beautiful hair
+
+and he becomes the sweet parrot
+that you raised and now stays 
+on your beautiful arms.
+
+Shiva the highest god,
+becomes a bird, a bee and a parrot
+showing that 
+all creatures are only himself. 
+
+A white male elephant 
+bathes in the waterfall
+where water flows swiftly,
+mixed with fragrant red kumkum paste
+from the women glistening like lighting
+who bathe there, 
+and he turns red.
+Worried that his gentle, naive mate
+might be distressed by his red color,
+he remains outside the golden palaces
+that fill Kudal city
+so his color will be only golden-gray 
+that she will not be scared.
+
+O goddess, you are 
+the queen of lovely Kudal city,
+Play on the golden swing
+and give us your grace.
+
+O goddess, a lovely creeper, 
+You are as divine and beautiful 
+as your beloved Shiva,
+whose body you share.
+Play on the golden swing
+and give us your grace.
+ 
+102. The Beauty of the Goddess
+
+O goddess,
+your two divine feet are decorated 
+with anklets filled with large diamond-studded bells
+that tinkle softly and it seems
+they are complaining. 
+
+Your mekalai waistband worries and says, 
+“Her waist will break, break.”
+
+Your lovely waist is decorated 
+with fine silk  woven with golden thread.
+
+A shining golden ornament 
+circles your lovely belly 
+and makes it beautiful.
+
+You carry a lovely green parrot
+on your soft right hand. 
+
+Your divine breasts shine 
+decorated with a cloth,
+studded with pearl ornaments. 
+
+Your auspicious thali hangs 
+beautifully on your neck.
+
+Your moon-like face
+gives grace to all 
+and your sweet smile shines brightly
+like the rays of the moon. 
+
+
+Your fish-shaped eyes
+have plunged into the 
+ocean of knowledge and joy.
+
+Your long eyes touch your ears
+decorated with emerald rings,
+and it seems they would fight with them.
+
+You bloom with beauty.
+O Sundaravalli, 
+play on the golden swing
+and give us your grace.
+
+O goddess, a lovely creeper, 
+You are as divine and beautiful 
+as your beloved Shiva,
+whose body you share.
+Play on the golden swing
+and give us your grace.
+
+Subham.
