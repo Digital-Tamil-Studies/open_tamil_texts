@@ -27,6 +27,7 @@ for line in lines:
     pattern = "xport\|(.*?)}}"
     title = re.search(pattern, line).group(1)
     metadata["title"] = title    
+    metadata["file_name"] = title.replace(" ", "_") + ".txt"
     metadata["source"] = "https://ta.wikisource.org/wiki/" + title
     
     metadata["creator"] = ""
@@ -51,6 +52,9 @@ for line in lines:
         date = date.group(1)
         metadata["date"] = date  
     wikisource_books.append(metadata)
+    
+    metadata["rights"] = "CC0 1.0 https://upload.wikimedia.org/wikipedia/commons/b/ba/Tamil-Nadu-Nationalized-Books-Public-Domain-Declaration-Tamil-Version.jpg"
+    
 
 
 # In[4]:
